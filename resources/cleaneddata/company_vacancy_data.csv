@@ -1,16 +1,16 @@
 ,company,position
-122,Amazon.com,358
-230,Ball Aerospace,187
-1270,Microsoft,137
-866,Google,134
-1328,NYU Langone Health,77
-798,Fred Hutchinson Cancer Research Center,70
-1095,KPMG,66
-1136,Lab126,50
-748,Facebook,49
-324,Broad Institute,49
-2101,Walmart eCommerce,45
-1248,McKinsey & Company,41
-1876,Takeda Pharmaceutical,39
-2040,University of Washington,39
-928,Harnham,39
+0,Amazon.com,358
+1,Ball Aerospace,187
+2,Microsoft,137
+3,Google,134
+4,NYU Langone Health,77
+5,Fred Hutchinson Cancer Research Center,70
+6,KPMG,66
+7,Lab126,50
+8,Facebook,49
+9,Broad Institute,49
+10,Walmart eCommerce,45
+11,McKinsey & Company,41
+12,Takeda Pharmaceutical,39
+13,University of Washington,39
+14,Harnham,39
