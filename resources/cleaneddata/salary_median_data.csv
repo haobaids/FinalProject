@@ -1,0 +1,104 @@
+,Age,FormalEducation,Gender,Salary
+0,18 - 24 years old,Associate degree,Female,42000.0
+1,18 - 24 years old,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Female,70000.0
+2,18 - 24 years old,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Female,90000.0
+3,18 - 24 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Female,12650.0
+4,18 - 24 years old,Some college/university study without earning a degree,Female,38595.0
+5,25 - 34 years old,Associate degree,Female,70000.0
+6,25 - 34 years old,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Female,85000.0
+7,25 - 34 years old,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Female,85000.0
+8,25 - 34 years old,"Other doctoral degree (Ph.D, Ed.D., etc.)",Female,75000.0
+9,25 - 34 years old,"Professional degree (JD, MD, etc.)",Female,98000.0
+10,25 - 34 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Female,57500.0
+11,25 - 34 years old,Some college/university study without earning a degree,Female,65000.0
+12,35 - 44 years old,Associate degree,Female,55000.0
+13,35 - 44 years old,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Female,97500.0
+14,35 - 44 years old,I never completed any formal education,Female,897.0
+15,35 - 44 years old,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Female,100000.0
+16,35 - 44 years old,"Other doctoral degree (Ph.D, Ed.D., etc.)",Female,113000.0
+17,35 - 44 years old,"Professional degree (JD, MD, etc.)",Female,70000.0
+18,35 - 44 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Female,75000.0
+19,35 - 44 years old,Some college/university study without earning a degree,Female,87500.0
+20,45 - 54 years old,Associate degree,Female,55000.0
+21,45 - 54 years old,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Female,107500.0
+22,45 - 54 years old,I never completed any formal education,Female,30000.0
+23,45 - 54 years old,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Female,93000.0
+24,45 - 54 years old,"Other doctoral degree (Ph.D, Ed.D., etc.)",Female,110250.0
+25,45 - 54 years old,Some college/university study without earning a degree,Female,92000.0
+26,55 - 64 years old,Associate degree,Female,56000.0
+27,55 - 64 years old,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Female,82000.0
+28,55 - 64 years old,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Female,121000.0
+29,55 - 64 years old,"Other doctoral degree (Ph.D, Ed.D., etc.)",Female,88000.0
+30,55 - 64 years old,Some college/university study without earning a degree,Female,96000.0
+31,18 - 24 years old,Associate degree,Male,33934.0
+32,18 - 24 years old,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Male,71380.0
+33,18 - 24 years old,I never completed any formal education,Male,220.0
+34,18 - 24 years old,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Male,80000.0
+35,18 - 24 years old,"Other doctoral degree (Ph.D, Ed.D., etc.)",Male,1143.0
+36,18 - 24 years old,Primary/elementary school,Male,4000.0
+37,18 - 24 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Male,15000.0
+38,18 - 24 years old,Some college/university study without earning a degree,Male,35000.0
+39,25 - 34 years old,Associate degree,Male,70000.0
+40,25 - 34 years old,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Male,92000.0
+41,25 - 34 years old,I never completed any formal education,Male,80000.0
+42,25 - 34 years old,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Male,100500.0
+43,25 - 34 years old,"Other doctoral degree (Ph.D, Ed.D., etc.)",Male,114000.0
+44,25 - 34 years old,Primary/elementary school,Male,110000.0
+45,25 - 34 years old,"Professional degree (JD, MD, etc.)",Male,81000.0
+46,25 - 34 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Male,84250.0
+47,25 - 34 years old,Some college/university study without earning a degree,Male,85000.0
+48,35 - 44 years old,Associate degree,Male,95000.0
+49,35 - 44 years old,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Male,115000.0
+50,35 - 44 years old,I never completed any formal education,Male,110000.0
+51,35 - 44 years old,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Male,120000.0
+52,35 - 44 years old,"Other doctoral degree (Ph.D, Ed.D., etc.)",Male,130000.0
+53,35 - 44 years old,Primary/elementary school,Male,124500.0
+54,35 - 44 years old,"Professional degree (JD, MD, etc.)",Male,92500.0
+55,35 - 44 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Male,110000.0
+56,35 - 44 years old,Some college/university study without earning a degree,Male,112000.0
+57,45 - 54 years old,Associate degree,Male,102000.0
+58,45 - 54 years old,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Male,125000.0
+59,45 - 54 years old,I never completed any formal education,Male,116000.0
+60,45 - 54 years old,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Male,132500.0
+61,45 - 54 years old,"Other doctoral degree (Ph.D, Ed.D., etc.)",Male,136000.0
+62,45 - 54 years old,Primary/elementary school,Male,98000.0
+63,45 - 54 years old,"Professional degree (JD, MD, etc.)",Male,97500.0
+64,45 - 54 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Male,113000.0
+65,45 - 54 years old,Some college/university study without earning a degree,Male,120000.0
+66,55 - 64 years old,Associate degree,Male,96000.0
+67,55 - 64 years old,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Male,125000.0
+68,55 - 64 years old,I never completed any formal education,Male,35000.0
+69,55 - 64 years old,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Male,125000.0
+70,55 - 64 years old,"Other doctoral degree (Ph.D, Ed.D., etc.)",Male,180000.0
+71,55 - 64 years old,"Professional degree (JD, MD, etc.)",Male,180000.0
+72,55 - 64 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Male,115000.0
+73,55 - 64 years old,Some college/university study without earning a degree,Male,120000.0
+74,65 years or older,Associate degree,Male,70000.0
+75,65 years or older,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Male,108000.0
+76,65 years or older,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Male,107500.0
+77,65 years or older,"Other doctoral degree (Ph.D, Ed.D., etc.)",Male,36000.0
+78,65 years or older,"Professional degree (JD, MD, etc.)",Male,100000.0
+79,65 years or older,Some college/university study without earning a degree,Male,105000.0
+80,Under 18 years old,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Male,125000.0
+81,Under 18 years old,I never completed any formal education,Male,0.0
+82,Under 18 years old,Primary/elementary school,Male,0.0
+83,Under 18 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Male,0.0
+84,Under 18 years old,Some college/university study without earning a degree,Male,0.0
+85,All,All,Female,82000.0
+86,All,All,Male,97000.0
+87,18 - 24 years old,All,All,65000.0
+88,25 - 34 years old,All,All,91000.0
+89,35 - 44 years old,All,All,115000.0
+90,45 - 54 years old,All,All,120000.0
+91,55 - 64 years old,All,All,120000.0
+92,65 years or older,All,All,100000.0
+93,Under 18 years old,All,All,0.0
+94,All,Associate degree,All,71000.0
+95,All,"Bachelor’s degree (BA, BS, B.Eng., etc.)",All,95000.0
+96,All,I never completed any formal education,All,80000.0
+97,All,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",All,110000.0
+98,All,"Other doctoral degree (Ph.D, Ed.D., etc.)",All,120000.0
+99,All,Primary/elementary school,All,5.25
+100,All,"Professional degree (JD, MD, etc.)",All,93750.0
+101,All,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",All,50000.0
+102,All,Some college/university study without earning a degree,All,85000.0

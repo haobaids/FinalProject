@@ -179,6 +179,49 @@ function initgendersalarychart() {
 
 };
 
+// For education salary chart
+function initedusalarychart() {
+
+    var data = [{
+        x: ['1','2','3','4','5','6','7','8','9'],
+        y: [1,1,1,1,1,1,1,1,1],
+        text: [0,0,0,0,0,0,0,0,0],
+        textposition: 'auto',
+        type: "bar"
+    }];
+
+    var layout = {
+        height: 400,
+        width: 600,
+        'yaxis': {'title': 'Median Salary (Annually)'}
+    };
+
+    var BARCHART = document.getElementById("salaryeduchart");
+
+    Plotly.plot(BARCHART, data, layout);
+
+    d3.json("static/dataset/salary_edu_data.json", function(data) {
+        // console.log("newdata", data);
+        // console.log("formalEducation", data['FormalEducation']);
+        // console.log("salary", data['Salary']);
+
+        console.log("getting role_wanted_data.json");
+        const formalEducation = []
+        const salary = [];
+        
+        for (let i = 0; i <  Object.keys(data['FormalEducation']).length; i++) {
+            console.log("loop", i, data['FormalEducation'][i])
+            formalEducation.push(data['FormalEducation'][i]);
+            salary.push(data['Salary'][i]);
+        }
+
+        Plotly.restyle(BARCHART, "x", [formalEducation]);
+        Plotly.restyle(BARCHART, "y", [salary]);
+        Plotly.restyle(BARCHART, "text", [salary]);
+    });
+
+};
+
 // Initialize the dashboard
 initpositionchart();
 
@@ -188,3 +231,4 @@ initagesalarychart();
 
 initgendersalarychart();
 
+initedusalarychart();

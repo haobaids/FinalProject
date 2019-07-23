@@ -1,7 +1,6 @@
 ,Country,Age,Gender,Salary,FormalEducation
 6,United States,18 - 24 years old,Male,120000.0,Some college/university study without earning a degree
 8,United States,35 - 44 years old,Male,250000.0,Some college/university study without earning a degree
-23,United States,45 - 54 years old,"Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming",75000.0,Some college/university study without earning a degree
 27,United States,25 - 34 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 32,United States,18 - 24 years old,Female,44000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 33,United States,25 - 34 years old,Female,60000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -9,7 +8,6 @@
 43,United States,25 - 34 years old,Male,74000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 46,United States,25 - 34 years old,Male,115000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 47,United States,35 - 44 years old,Male,70000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-49,United States,25 - 34 years old,"Male;Non-binary, genderqueer, or gender non-conforming",90000.0,Associate degree
 51,United States,35 - 44 years old,Male,115000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 62,United States,25 - 34 years old,Male,120000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 73,United States,25 - 34 years old,Male,3000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -123,7 +121,6 @@
 802,United States,35 - 44 years old,Female,300000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 818,United States,25 - 34 years old,Male,150000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 819,United States,35 - 44 years old,Male,132000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-822,United States,45 - 54 years old,Transgender,107000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 827,United States,35 - 44 years old,Male,115000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 840,United States,35 - 44 years old,Male,102000.0,Some college/university study without earning a degree
 843,United States,25 - 34 years old,Male,122300.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -140,7 +137,6 @@
 939,United States,25 - 34 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 940,United States,25 - 34 years old,Male,130000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 943,United States,25 - 34 years old,Male,57000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-951,United States,25 - 34 years old,Female;Transgender,85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 954,United States,45 - 54 years old,Male,92000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 956,United States,45 - 54 years old,Male,140000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 966,United States,25 - 34 years old,Female,105000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -192,7 +188,6 @@
 1256,United States,25 - 34 years old,Male,154000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 1260,United States,18 - 24 years old,Male,72000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 1261,United States,25 - 34 years old,Male,65000.0,Some college/university study without earning a degree
-1268,United States,35 - 44 years old,Female;Transgender,125000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 1273,United States,45 - 54 years old,Male,75000.0,Associate degree
 1277,United States,18 - 24 years old,Male,60000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 1278,United States,25 - 34 years old,Male,80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -275,7 +270,6 @@
 1803,United States,35 - 44 years old,Male,95000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 1804,United States,35 - 44 years old,Male,148000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 1815,United States,35 - 44 years old,Male,205000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-1816,United States,25 - 34 years old,"Female;Non-binary, genderqueer, or gender non-conforming",107000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 1827,United States,55 - 64 years old,Male,168000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 1830,United States,25 - 34 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 1842,United States,25 - 34 years old,Male,45500.0,Associate degree
@@ -342,7 +336,6 @@
 2259,United States,35 - 44 years old,Male,90000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 2263,United States,35 - 44 years old,Male,98000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 2268,United States,18 - 24 years old,Male,58000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-2271,United States,25 - 34 years old,"Female;Non-binary, genderqueer, or gender non-conforming",85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 2312,United States,18 - 24 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 2313,United States,35 - 44 years old,Male,100000.0,Some college/university study without earning a degree
 2316,United States,25 - 34 years old,Male,89000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -352,7 +345,6 @@
 2326,United States,25 - 34 years old,Female,27000.0,Some college/university study without earning a degree
 2327,United States,25 - 34 years old,Male,93000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 2337,United States,18 - 24 years old,Male,69000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-2346,United States,18 - 24 years old,"Transgender;Non-binary, genderqueer, or gender non-conforming",130000.0,Associate degree
 2350,United States,25 - 34 years old,Male,145000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 2356,United States,25 - 34 years old,Male,52000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 2361,United States,35 - 44 years old,Male,150000.0,Some college/university study without earning a degree
@@ -388,7 +380,6 @@
 2588,United States,25 - 34 years old,Male,120000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 2606,United States,25 - 34 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 2617,United States,35 - 44 years old,Male,125000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-2620,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 2623,United States,25 - 34 years old,Male,56000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 2628,United States,25 - 34 years old,Female,65000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 2638,United States,55 - 64 years old,Male,137000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
@@ -412,7 +403,6 @@
 2766,United States,45 - 54 years old,Male,200000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 2767,United States,35 - 44 years old,Male,92000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 2788,United States,25 - 34 years old,Male,190000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-2791,United States,35 - 44 years old,"Male;Non-binary, genderqueer, or gender non-conforming",68000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 2800,United States,25 - 34 years old,Female,76000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 2812,United States,35 - 44 years old,Male,200000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 2816,United States,35 - 44 years old,Male,135000.0,Associate degree
@@ -528,7 +518,6 @@
 3507,United States,25 - 34 years old,Male,110000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 3509,United States,35 - 44 years old,Male,165000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 3512,United States,25 - 34 years old,Male,115000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-3517,United States,25 - 34 years old,Female;Transgender,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 3540,United States,25 - 34 years old,Male,85000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 3549,United States,25 - 34 years old,Male,50000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 3560,United States,25 - 34 years old,Male,85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -541,7 +530,6 @@
 3597,United States,35 - 44 years old,Female,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 3602,United States,45 - 54 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 3603,United States,18 - 24 years old,Male,48000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-3611,United States,25 - 34 years old,Female;Transgender,110000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 3612,United States,35 - 44 years old,Male,135000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 3624,United States,25 - 34 years old,Male,105000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 3630,United States,25 - 34 years old,Male,7347.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -618,7 +606,6 @@
 4145,United States,45 - 54 years old,Male,135000.0,Some college/university study without earning a degree
 4151,United States,18 - 24 years old,Male,107000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 4155,United States,25 - 34 years old,Male,73000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-4174,United States,35 - 44 years old,"Male;Non-binary, genderqueer, or gender non-conforming",155000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 4178,United States,35 - 44 years old,Male,126000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 4194,United States,35 - 44 years old,Male,62000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 4200,United States,45 - 54 years old,Male,125000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -629,7 +616,6 @@
 4232,United States,25 - 34 years old,Male,83000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 4235,United States,25 - 34 years old,Male,172000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 4242,United States,25 - 34 years old,Male,85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-4244,United States,25 - 34 years old,"Female;Transgender;Non-binary, genderqueer, or gender non-conforming",70000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 4247,United States,25 - 34 years old,Male,100000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 4250,United States,45 - 54 years old,Male,120000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 4254,United States,25 - 34 years old,Male,130000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -654,9 +640,7 @@
 4394,United States,25 - 34 years old,Male,120000.0,Associate degree
 4400,United States,25 - 34 years old,Male,147000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 4405,United States,25 - 34 years old,Male,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-4406,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",50000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 4408,United States,18 - 24 years old,Male,82500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-4414,United States,25 - 34 years old,Male;Transgender,120000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 4429,United States,25 - 34 years old,Male,145000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 4436,United States,35 - 44 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 4438,United States,18 - 24 years old,Male,68456.0,Associate degree
@@ -678,7 +662,6 @@
 4537,United States,25 - 34 years old,Male,150000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 4538,United States,25 - 34 years old,Male,57000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 4543,United States,35 - 44 years old,Male,163000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-4554,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",88000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 4555,United States,25 - 34 years old,Male,45000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 4578,United States,25 - 34 years old,Female,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 4580,United States,35 - 44 years old,Male,111000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -716,7 +699,6 @@
 4816,United States,35 - 44 years old,Male,104000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 4838,United States,25 - 34 years old,Male,80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 4845,United States,35 - 44 years old,Male,70000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-4854,United States,45 - 54 years old,Female;Transgender,45000.0,Associate degree
 4857,United States,18 - 24 years old,Male,76000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 4858,United States,25 - 34 years old,Male,135000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 4862,United States,35 - 44 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -751,7 +733,6 @@
 5101,United States,25 - 34 years old,Male,2200.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 5104,United States,35 - 44 years old,Male,120000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 5105,United States,35 - 44 years old,Male,175000.0,Some college/university study without earning a degree
-5107,United States,18 - 24 years old,Female;Transgender,78000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 5111,United States,25 - 34 years old,Male,90000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 5114,United States,35 - 44 years old,Male,44000.0,"Professional degree (JD, MD, etc.)"
 5119,United States,35 - 44 years old,Male,250000.0,Some college/university study without earning a degree
@@ -759,7 +740,6 @@
 5127,United States,25 - 34 years old,Female,100000.0,Associate degree
 5137,United States,35 - 44 years old,Male,165000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 5142,United States,18 - 24 years old,Male,110000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-5165,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",160000.0,Some college/university study without earning a degree
 5168,United States,25 - 34 years old,Male,77000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 5190,United States,45 - 54 years old,Male,147000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 5191,United States,35 - 44 years old,Male,1510000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -772,7 +752,6 @@
 5245,United States,25 - 34 years old,Male,158000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 5249,United States,45 - 54 years old,Male,110000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 5260,United States,18 - 24 years old,Female,24000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-5264,United States,18 - 24 years old,"Non-binary, genderqueer, or gender non-conforming",125000.0,Some college/university study without earning a degree
 5273,United States,25 - 34 years old,Male,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 5291,United States,18 - 24 years old,Male,105000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 5292,United States,35 - 44 years old,Male,230000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -791,7 +770,6 @@
 5341,United States,25 - 34 years old,Male,800.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 5350,United States,25 - 34 years old,Male,62000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 5359,United States,35 - 44 years old,Male,70000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-5362,United States,18 - 24 years old,"Non-binary, genderqueer, or gender non-conforming",110000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 5374,United States,25 - 34 years old,Male,69000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 5375,United States,18 - 24 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 5382,United States,18 - 24 years old,Male,400.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
@@ -908,7 +886,6 @@
 6045,United States,35 - 44 years old,Male,157000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 6058,United States,25 - 34 years old,Male,115000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 6064,United States,18 - 24 years old,Male,160000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-6071,United States,25 - 34 years old,Transgender,79000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 6080,United States,18 - 24 years old,Male,112500.0,Some college/university study without earning a degree
 6082,United States,18 - 24 years old,Male,1000.0,Some college/university study without earning a degree
 6088,United States,45 - 54 years old,Male,135000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -934,9 +911,7 @@
 6221,United States,18 - 24 years old,Male,840.0,Some college/university study without earning a degree
 6226,United States,25 - 34 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 6227,United States,25 - 34 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-6228,United States,35 - 44 years old,"Female;Transgender;Non-binary, genderqueer, or gender non-conforming",115000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 6247,United States,25 - 34 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-6256,United States,35 - 44 years old,"Non-binary, genderqueer, or gender non-conforming",220000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 6260,United States,18 - 24 years old,Male,136000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 6264,United States,25 - 34 years old,Male,138000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 6266,United States,25 - 34 years old,Male,88000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -989,7 +964,6 @@
 6546,United States,25 - 34 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 6547,United States,45 - 54 years old,Male,65000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 6549,United States,35 - 44 years old,Male,150000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
-6559,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",1000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 6570,United States,35 - 44 years old,Male,127000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 6579,United States,45 - 54 years old,Male,70000.0,Some college/university study without earning a degree
 6585,United States,25 - 34 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -1003,7 +977,6 @@
 6654,United States,55 - 64 years old,Male,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 6664,United States,35 - 44 years old,Male,98000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 6692,United States,25 - 34 years old,Male,52000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-6719,United States,35 - 44 years old,"Non-binary, genderqueer, or gender non-conforming",125000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 6732,United States,18 - 24 years old,Male,700.0,Some college/university study without earning a degree
 6736,United States,35 - 44 years old,Male,120000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 6741,United States,25 - 34 years old,Male,89000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -1022,7 +995,6 @@
 6818,United States,18 - 24 years old,Male,65000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 6823,United States,25 - 34 years old,Female,115000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 6829,United States,45 - 54 years old,Male,130000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-6832,United States,25 - 34 years old,"Male;Non-binary, genderqueer, or gender non-conforming",147000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 6843,United States,35 - 44 years old,Male,145000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 6851,United States,25 - 34 years old,Male,70000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 6858,United States,45 - 54 years old,Male,187000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -1105,7 +1077,6 @@
 7330,United States,25 - 34 years old,Male,30000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 7331,United States,18 - 24 years old,Male,38000.0,Some college/university study without earning a degree
 7338,United States,35 - 44 years old,Male,115000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-7346,United States,18 - 24 years old,Transgender,65000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 7348,United States,25 - 34 years old,Male,80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 7349,United States,25 - 34 years old,Male,73000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 7357,United States,45 - 54 years old,Male,105000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -1168,7 +1139,6 @@
 7729,United States,35 - 44 years old,Male,160000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 7737,United States,25 - 34 years old,Male,92000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 7753,United States,25 - 34 years old,Male,130000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-7771,United States,35 - 44 years old,"Male;Non-binary, genderqueer, or gender non-conforming",92500.0,Some college/university study without earning a degree
 7778,United States,35 - 44 years old,Male,95000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 7783,United States,25 - 34 years old,Male,103000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 7792,United States,25 - 34 years old,Male,35000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -1186,11 +1156,9 @@
 7888,United States,25 - 34 years old,Male,112000.0,Some college/university study without earning a degree
 7889,United States,18 - 24 years old,Male,77000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 7890,United States,45 - 54 years old,Male,113000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-7894,United States,25 - 34 years old,Male;Transgender,118000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 7898,United States,25 - 34 years old,Male,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 7914,United States,45 - 54 years old,Male,110000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 7933,United States,25 - 34 years old,Male,75000.0,Some college/university study without earning a degree
-7936,United States,18 - 24 years old,"Non-binary, genderqueer, or gender non-conforming",90000.0,Some college/university study without earning a degree
 7938,United States,45 - 54 years old,Female,85000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 7946,United States,25 - 34 years old,Female,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 7948,United States,25 - 34 years old,Male,55000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -1225,7 +1193,6 @@
 8143,United States,18 - 24 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 8146,United States,35 - 44 years old,Male,145000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 8154,United States,25 - 34 years old,Male,106000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-8160,United States,18 - 24 years old,Transgender,71720.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 8163,United States,25 - 34 years old,Female,72500.0,Some college/university study without earning a degree
 8165,United States,25 - 34 years old,Male,70000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 8166,United States,35 - 44 years old,Male,90000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -1279,7 +1246,6 @@
 8487,United States,35 - 44 years old,Male,85000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 8489,United States,25 - 34 years old,Male,30000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 8490,United States,25 - 34 years old,Male,105000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-8503,United States,35 - 44 years old,"Male;Non-binary, genderqueer, or gender non-conforming",153000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 8523,United States,25 - 34 years old,Male,65000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 8544,United States,45 - 54 years old,Male,110000.0,Some college/university study without earning a degree
 8555,United States,25 - 34 years old,Female,110000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -1369,7 +1335,6 @@
 9100,United States,18 - 24 years old,Male,101000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 9107,United States,25 - 34 years old,Male,105000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 9109,United States,35 - 44 years old,Male,139000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-9117,United States,25 - 34 years old,"Male;Transgender;Non-binary, genderqueer, or gender non-conforming",125000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 9128,United States,25 - 34 years old,Male,60000.0,Some college/university study without earning a degree
 9129,United States,25 - 34 years old,Male,46000.0,Some college/university study without earning a degree
 9138,United States,18 - 24 years old,Male,49000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -1414,7 +1379,6 @@
 9385,United States,45 - 54 years old,Male,150000.0,Associate degree
 9390,United States,25 - 34 years old,Male,68000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 9397,United States,18 - 24 years old,Male,72000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-9402,United States,25 - 34 years old,Male;Transgender,53000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 9403,United States,18 - 24 years old,Male,83000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 9413,United States,25 - 34 years old,Male,133900.0,Some college/university study without earning a degree
 9415,United States,35 - 44 years old,Female,74000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -1425,8 +1389,6 @@
 9436,United States,45 - 54 years old,Male,225000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 9445,United States,45 - 54 years old,Male,107000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 9455,United States,18 - 24 years old,Male,129000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-9458,United States,35 - 44 years old,"Male;Non-binary, genderqueer, or gender non-conforming",150000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-9462,United States,35 - 44 years old,Female;Transgender,60000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 9473,United States,25 - 34 years old,Male,100000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 9484,United States,25 - 34 years old,Male,125000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 9489,United States,18 - 24 years old,Male,63000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -1452,7 +1414,6 @@
 9610,United States,25 - 34 years old,Male,108200.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 9627,United States,35 - 44 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 9655,United States,35 - 44 years old,Male,123000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-9662,United States,45 - 54 years old,Transgender,98000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 9664,United States,18 - 24 years old,Male,59000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 9667,United States,25 - 34 years old,Male,17500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 9669,United States,25 - 34 years old,Male,68000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -1502,7 +1463,6 @@
 9926,United States,35 - 44 years old,Male,85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 9927,United States,25 - 34 years old,Male,82000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 9941,United States,35 - 44 years old,Male,80000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-9943,United States,35 - 44 years old,"Non-binary, genderqueer, or gender non-conforming",150000.0,Some college/university study without earning a degree
 9962,United States,45 - 54 years old,Male,85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 9964,United States,35 - 44 years old,Male,135000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 9968,United States,18 - 24 years old,Male,52500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -1530,7 +1490,6 @@
 10103,United States,25 - 34 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 10109,United States,55 - 64 years old,Male,165000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 10112,United States,45 - 54 years old,Male,125000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-10113,United States,25 - 34 years old,"Transgender;Non-binary, genderqueer, or gender non-conforming",55000.0,Some college/university study without earning a degree
 10131,United States,18 - 24 years old,Male,63000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 10139,United States,45 - 54 years old,Male,95000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 10152,United States,25 - 34 years old,Male,125000.0,Associate degree
@@ -1557,7 +1516,6 @@
 10259,United States,35 - 44 years old,Male,160000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 10260,United States,35 - 44 years old,Male,450000.0,Some college/university study without earning a degree
 10261,United States,25 - 34 years old,Male,112000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-10262,United States,25 - 34 years old,"Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming",115.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 10282,United States,18 - 24 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 10286,United States,25 - 34 years old,Male,65000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 10294,United States,25 - 34 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -1574,7 +1532,6 @@
 10388,United States,25 - 34 years old,Male,150000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 10394,United States,55 - 64 years old,Male,70000.0,Some college/university study without earning a degree
 10397,United States,55 - 64 years old,Male,127000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-10400,United States,18 - 24 years old,"Non-binary, genderqueer, or gender non-conforming",750.0,Some college/university study without earning a degree
 10405,United States,25 - 34 years old,Male,87000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 10409,United States,25 - 34 years old,Male,110000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 10416,United States,35 - 44 years old,Male,166000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -1627,7 +1584,6 @@
 10770,United States,35 - 44 years old,Male,124000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 10775,United States,55 - 64 years old,Male,165000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 10781,United States,25 - 34 years old,Male,60000.0,Associate degree
-10792,United States,18 - 24 years old,"Transgender;Non-binary, genderqueer, or gender non-conforming",2400.0,Some college/university study without earning a degree
 10796,United States,25 - 34 years old,Male,173200.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 10800,United States,25 - 34 years old,Male,150000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 10801,United States,35 - 44 years old,Male,100000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
@@ -1677,7 +1633,6 @@
 11123,United States,25 - 34 years old,Male,95000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 11127,United States,35 - 44 years old,Male,91000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 11131,United States,25 - 34 years old,Male,84000.0,Primary/elementary school
-11141,United States,25 - 34 years old,"Transgender;Non-binary, genderqueer, or gender non-conforming",90000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 11142,United States,25 - 34 years old,Male,135000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 11146,United States,25 - 34 years old,Male,115000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 11147,United States,25 - 34 years old,Male,52500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -1700,7 +1655,6 @@
 11257,United States,35 - 44 years old,Male,95000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 11270,United States,25 - 34 years old,Male,107000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 11273,United States,35 - 44 years old,Male,150000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-11275,United States,25 - 34 years old,"Male;Non-binary, genderqueer, or gender non-conforming",65520.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 11292,United States,35 - 44 years old,Male,80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 11295,United States,25 - 34 years old,Male,99000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 11305,United States,18 - 24 years old,Male,53000.0,Some college/university study without earning a degree
@@ -1743,7 +1697,6 @@
 11555,United States,35 - 44 years old,Male,110000.0,Some college/university study without earning a degree
 11558,United States,18 - 24 years old,Male,110000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 11572,United States,18 - 24 years old,Male,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-11577,United States,18 - 24 years old,"Transgender;Non-binary, genderqueer, or gender non-conforming",75000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 11588,United States,25 - 34 years old,Male,50000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 11590,United States,35 - 44 years old,Male,110000.0,Associate degree
 11596,United States,25 - 34 years old,Male,150000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -1762,12 +1715,10 @@
 11700,United States,25 - 34 years old,Male,63000.0,Associate degree
 11708,United States,18 - 24 years old,Female,40000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 11735,United States,25 - 34 years old,Male,110000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-11742,United States,25 - 34 years old,"Female;Non-binary, genderqueer, or gender non-conforming",11944.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 11744,United States,25 - 34 years old,Male,160000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 11747,United States,25 - 34 years old,Male,91000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 11756,United States,25 - 34 years old,Male,105000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 11761,United States,25 - 34 years old,Male,147000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-11765,United States,25 - 34 years old,"Female;Non-binary, genderqueer, or gender non-conforming",102000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 11766,United States,18 - 24 years old,Male,57500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 11770,United States,25 - 34 years old,Male,82000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 11784,United States,25 - 34 years old,Male,104000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -1834,7 +1785,6 @@
 12102,United States,25 - 34 years old,Male,200000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 12103,United States,45 - 54 years old,Male,80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 12104,United States,25 - 34 years old,Male,106000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-12106,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",87500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 12113,United States,25 - 34 years old,Male,80000.0,Some college/university study without earning a degree
 12115,United States,35 - 44 years old,Male,144000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 12123,United States,25 - 34 years old,Female,95000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -1954,12 +1904,10 @@
 12881,United States,25 - 34 years old,Male,87000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 12883,United States,25 - 34 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 12893,United States,18 - 24 years old,Female,84000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-12901,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",28800.0,Some college/university study without earning a degree
 12907,United States,35 - 44 years old,Male,62000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 12925,United States,18 - 24 years old,Male,62000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 12939,United States,25 - 34 years old,Male,110000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 12941,United States,25 - 34 years old,Male,85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-12942,United States,25 - 34 years old,Female;Transgender,2500.0,Some college/university study without earning a degree
 12970,United States,25 - 34 years old,Male,120000.0,Some college/university study without earning a degree
 12971,United States,35 - 44 years old,Male,125000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 12972,United States,25 - 34 years old,Male,77000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -2081,7 +2029,6 @@
 13654,United States,25 - 34 years old,Male,45000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 13659,United States,25 - 34 years old,Male,105000.0,Associate degree
 13661,United States,25 - 34 years old,Male,53000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-13664,United States,25 - 34 years old,"Female;Non-binary, genderqueer, or gender non-conforming",130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 13673,United States,18 - 24 years old,Male,60000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 13677,United States,25 - 34 years old,Female,95000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 13682,United States,55 - 64 years old,Male,160000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -2113,7 +2060,6 @@
 13842,United States,25 - 34 years old,Male,3553.0,Some college/university study without earning a degree
 13860,United States,35 - 44 years old,Female,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 13861,United States,25 - 34 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-13865,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",73500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 13867,United States,35 - 44 years old,Male,85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 13874,United States,18 - 24 years old,Male,90000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 13886,United States,18 - 24 years old,Male,66300.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -2127,7 +2073,6 @@
 13953,United States,45 - 54 years old,Male,10000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 13958,United States,18 - 24 years old,Male,64000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 13962,United States,35 - 44 years old,Male,107228.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-13963,United States,25 - 34 years old,Female;Transgender,135000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 13966,United States,35 - 44 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 13978,United States,25 - 34 years old,Male,98000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 13985,United States,35 - 44 years old,Male,150000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -2158,7 +2103,6 @@
 14163,United States,25 - 34 years old,Male,120000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 14165,United States,18 - 24 years old,Male,36000.0,Associate degree
 14168,United States,35 - 44 years old,Male,95000.0,Some college/university study without earning a degree
-14170,United States,25 - 34 years old,Female;Transgender,126000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 14173,United States,18 - 24 years old,Male,55000.0,Some college/university study without earning a degree
 14194,United States,25 - 34 years old,Male,66512.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 14198,United States,25 - 34 years old,Male,95000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -2227,7 +2171,6 @@
 14555,United States,25 - 34 years old,Male,60000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 14561,United States,18 - 24 years old,Male,50000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 14565,United States,35 - 44 years old,Male,150000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-14566,United States,18 - 24 years old,"Transgender;Non-binary, genderqueer, or gender non-conforming",107500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 14571,United States,35 - 44 years old,Male,125000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 14578,United States,25 - 34 years old,Male,60000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 14579,United States,25 - 34 years old,Male,66000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -2268,9 +2211,7 @@
 14836,United States,25 - 34 years old,Male,125000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 14842,United States,18 - 24 years old,Male,74000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 14848,United States,18 - 24 years old,Male,65000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-14853,United States,18 - 24 years old,"Non-binary, genderqueer, or gender non-conforming",150.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 14873,United States,35 - 44 years old,Male,128000.0,Some college/university study without earning a degree
-14886,United States,55 - 64 years old,Transgender,90000.0,Some college/university study without earning a degree
 14900,United States,25 - 34 years old,Male,55000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 14902,United States,35 - 44 years old,Male,127500.0,Some college/university study without earning a degree
 14903,United States,18 - 24 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -2307,7 +2248,6 @@
 15058,United States,25 - 34 years old,Male,1800.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 15062,United States,25 - 34 years old,Male,192000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 15068,United States,25 - 34 years old,Male,90000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-15069,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",70000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 15073,United States,18 - 24 years old,Male,125000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 15079,United States,55 - 64 years old,Male,78000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 15084,United States,35 - 44 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -2350,7 +2290,6 @@
 15353,United States,25 - 34 years old,Male,160000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 15355,United States,25 - 34 years old,Male,137000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 15375,United States,18 - 24 years old,Male,91000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-15387,United States,25 - 34 years old,Male;Transgender,116000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 15396,United States,25 - 34 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 15402,United States,35 - 44 years old,Female,89000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 15413,United States,35 - 44 years old,Male,88000.0,Associate degree
@@ -2417,7 +2356,6 @@
 15815,United States,35 - 44 years old,Male,150000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 15816,United States,35 - 44 years old,Male,74000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 15819,United States,25 - 34 years old,Male,130000.0,Some college/university study without earning a degree
-15832,United States,55 - 64 years old,Transgender,40000.0,Associate degree
 15835,United States,35 - 44 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 15836,United States,25 - 34 years old,Male,100000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 15845,United States,35 - 44 years old,Male,155000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
@@ -2476,7 +2414,6 @@
 16158,United States,25 - 34 years old,Male,125000.0,I never completed any formal education
 16167,United States,25 - 34 years old,Male,149000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 16172,United States,25 - 34 years old,Male,110000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-16174,United States,18 - 24 years old,Male;Transgender,75000.0,Some college/university study without earning a degree
 16178,United States,25 - 34 years old,Male,400000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 16187,United States,25 - 34 years old,Male,41000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 16190,United States,18 - 24 years old,Male,50000.0,Some college/university study without earning a degree
@@ -2548,7 +2485,6 @@
 16627,United States,45 - 54 years old,Male,140000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 16630,United States,25 - 34 years old,Male,70000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 16637,United States,25 - 34 years old,Male,275000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-16639,United States,25 - 34 years old,Transgender,55000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 16644,United States,18 - 24 years old,Male,42000.0,Some college/university study without earning a degree
 16645,United States,25 - 34 years old,Male,156000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 16649,United States,18 - 24 years old,Male,104000.0,Some college/university study without earning a degree
@@ -2571,7 +2507,6 @@
 16772,United States,25 - 34 years old,Male,40000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 16782,United States,25 - 34 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 16793,United States,35 - 44 years old,Female,56000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-16800,United States,35 - 44 years old,"Female;Transgender;Non-binary, genderqueer, or gender non-conforming",110000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 16805,United States,35 - 44 years old,Male,75500.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 16817,United States,25 - 34 years old,Male,110000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 16819,United States,25 - 34 years old,Male,113000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -2615,7 +2550,6 @@
 17071,United States,25 - 34 years old,Male,195000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 17078,United States,25 - 34 years old,Male,100000.03,Some college/university study without earning a degree
 17082,United States,35 - 44 years old,Male,78000.0,Associate degree
-17086,United States,35 - 44 years old,Transgender,150000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 17091,United States,35 - 44 years old,Female,87000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 17109,United States,55 - 64 years old,Male,170000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 17113,United States,25 - 34 years old,Male,300000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -2720,7 +2654,6 @@
 17802,United States,25 - 34 years old,Male,135000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 17806,United States,35 - 44 years old,Male,50000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 17817,United States,25 - 34 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-17820,United States,25 - 34 years old,"Female;Non-binary, genderqueer, or gender non-conforming",120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 17828,United States,25 - 34 years old,Male,110000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 17830,United States,25 - 34 years old,Male,146000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 17832,United States,25 - 34 years old,Female,70000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -2736,7 +2669,6 @@
 17875,United States,25 - 34 years old,Male,70500.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 17879,United States,25 - 34 years old,Female,136000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 17885,United States,35 - 44 years old,Male,125000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
-17891,United States,55 - 64 years old,"Male;Non-binary, genderqueer, or gender non-conforming",46000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 17896,United States,45 - 54 years old,Male,105475.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 17897,United States,45 - 54 years old,Male,125000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 17913,United States,25 - 34 years old,Male,125000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -2832,7 +2764,6 @@
 18465,United States,25 - 34 years old,Male,80000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 18472,United States,25 - 34 years old,Male,100000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 18484,United States,35 - 44 years old,Male,90000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
-18500,United States,18 - 24 years old,"Non-binary, genderqueer, or gender non-conforming",85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 18511,United States,25 - 34 years old,Male,75000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 18540,United States,25 - 34 years old,Male,112400.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 18541,United States,35 - 44 years old,Female,58000.0,Some college/university study without earning a degree
@@ -2894,7 +2825,6 @@
 18951,United States,35 - 44 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 18956,United States,25 - 34 years old,Female,140000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 18959,United States,35 - 44 years old,Male,140000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-18964,United States,45 - 54 years old,"Non-binary, genderqueer, or gender non-conforming",100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 18973,United States,25 - 34 years old,Female,90000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 18976,United States,25 - 34 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 18977,United States,18 - 24 years old,Male,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -2933,7 +2863,6 @@
 19228,United States,25 - 34 years old,Male,115000.0,Associate degree
 19232,United States,35 - 44 years old,Male,60000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 19245,United States,35 - 44 years old,Male,100000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
-19252,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",144000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 19256,United States,25 - 34 years old,Male,146000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 19262,United States,25 - 34 years old,Female,80000.0,Associate degree
 19275,United States,25 - 34 years old,Male,122500.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -2996,7 +2925,6 @@
 19574,United States,45 - 54 years old,Male,125000.0,Some college/university study without earning a degree
 19580,United States,25 - 34 years old,Male,70000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 19584,United States,25 - 34 years old,Male,90000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-19593,United States,18 - 24 years old,Male;Transgender,75000.0,Associate degree
 19598,United States,45 - 54 years old,Male,90000.0,Some college/university study without earning a degree
 19599,United States,45 - 54 years old,Male,170000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 19605,United States,35 - 44 years old,Female,64800.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -3042,7 +2970,6 @@
 19859,United States,35 - 44 years old,Male,83200.0,Associate degree
 19860,United States,18 - 24 years old,Male,55000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 19879,United States,25 - 34 years old,Female,4800.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-19886,United States,25 - 34 years old,"Female;Transgender;Non-binary, genderqueer, or gender non-conforming",48500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 19913,United States,35 - 44 years old,Male,115000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 19920,United States,25 - 34 years old,Male,142000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 19922,United States,35 - 44 years old,Male,118000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -3067,7 +2994,6 @@
 20029,United States,35 - 44 years old,Male,118500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 20034,United States,35 - 44 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 20036,United States,35 - 44 years old,Male,75000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-20042,United States,18 - 24 years old,Female;Transgender,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 20046,United States,45 - 54 years old,Male,100000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 20047,United States,25 - 34 years old,Male,90000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 20048,United States,35 - 44 years old,Male,180000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -3211,7 +3137,6 @@
 20922,United States,18 - 24 years old,Female,13.4,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 20924,United States,35 - 44 years old,Male,77000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 20932,United States,25 - 34 years old,Male,120524.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
-20933,United States,25 - 34 years old,"Transgender;Non-binary, genderqueer, or gender non-conforming",120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 20934,United States,35 - 44 years old,Male,80000.0,Some college/university study without earning a degree
 20937,United States,35 - 44 years old,Male,110000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 20939,United States,35 - 44 years old,Male,270000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
@@ -3231,7 +3156,6 @@
 21044,United States,45 - 54 years old,Male,120000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 21056,United States,55 - 64 years old,Male,87000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 21067,United States,25 - 34 years old,Male,200000.0,Associate degree
-21073,United States,18 - 24 years old,Female;Transgender,105000.0,Some college/university study without earning a degree
 21081,United States,25 - 34 years old,Female,102000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 21084,United States,25 - 34 years old,Female,123000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 21091,United States,25 - 34 years old,Male,107000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -3615,13 +3539,11 @@
 23600,United States,35 - 44 years old,Male,190000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 23609,United States,35 - 44 years old,Male,205000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 23617,United States,25 - 34 years old,Male,69000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-23638,United States,18 - 24 years old,"Transgender;Non-binary, genderqueer, or gender non-conforming",72000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 23641,United States,55 - 64 years old,Male,108000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 23647,United States,35 - 44 years old,Male,152740.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 23650,United States,25 - 34 years old,Male,64000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 23672,United States,55 - 64 years old,Male,113000.0,Some college/university study without earning a degree
 23673,United States,25 - 34 years old,Male,111000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-23675,United States,25 - 34 years old,"Male;Non-binary, genderqueer, or gender non-conforming",207000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 23678,United States,25 - 34 years old,Male,71500.0,Some college/university study without earning a degree
 23680,United States,25 - 34 years old,Male,70000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 23684,United States,25 - 34 years old,Male,117000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -3655,7 +3577,6 @@
 23841,United States,25 - 34 years old,Male,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 23850,United States,25 - 34 years old,Male,102000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 23857,United States,25 - 34 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-23859,United States,25 - 34 years old,Female;Transgender,129000.0,Associate degree
 23860,United States,25 - 34 years old,Male,76500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 23866,United States,25 - 34 years old,Male,98000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 23868,United States,25 - 34 years old,Male,83500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -3677,7 +3598,6 @@
 23999,United States,25 - 34 years old,Male,145000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 24003,United States,25 - 34 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 24010,United States,35 - 44 years old,Male,80000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-24022,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",70000.0,Some college/university study without earning a degree
 24023,United States,18 - 24 years old,Male,560.0,Associate degree
 24027,United States,45 - 54 years old,Male,180000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 24032,United States,25 - 34 years old,Male,70000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -3881,7 +3801,6 @@
 25263,United States,25 - 34 years old,Male,140000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 25264,United States,25 - 34 years old,Male,84000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 25275,United States,35 - 44 years old,Male,125000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-25281,United States,35 - 44 years old,Female;Transgender,182000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 25283,United States,45 - 54 years old,Male,150000.0,Some college/university study without earning a degree
 25284,United States,25 - 34 years old,Female,125000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 25308,United States,18 - 24 years old,Male,65000.0,Some college/university study without earning a degree
@@ -3950,7 +3869,6 @@
 25669,United States,25 - 34 years old,Male,96000.0,Some college/university study without earning a degree
 25679,United States,25 - 34 years old,Male,70000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 25685,United States,25 - 34 years old,Female,180000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-25686,United States,25 - 34 years old,Female;Transgender,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 25690,United States,25 - 34 years old,Male,68000.0,Some college/university study without earning a degree
 25697,United States,45 - 54 years old,Male,90000.0,Some college/university study without earning a degree
 25704,United States,25 - 34 years old,Male,300000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -3993,7 +3911,6 @@
 25929,United States,25 - 34 years old,Male,104000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 25933,United States,35 - 44 years old,Male,145000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 25959,United States,25 - 34 years old,Male,110000.0,I never completed any formal education
-25964,United States,25 - 34 years old,"Female;Non-binary, genderqueer, or gender non-conforming",155000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 25985,United States,35 - 44 years old,Female,95000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 25987,United States,35 - 44 years old,Male,150000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 25990,United States,25 - 34 years old,Male,30000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -4180,7 +4097,6 @@
 27208,United States,18 - 24 years old,Male,75000.0,Some college/university study without earning a degree
 27209,United States,25 - 34 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 27215,United States,25 - 34 years old,Male,60000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
-27223,United States,25 - 34 years old,Female;Transgender,100000.0,Some college/university study without earning a degree
 27246,United States,45 - 54 years old,Male,130000.0,Some college/university study without earning a degree
 27247,United States,35 - 44 years old,Female,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 27253,United States,25 - 34 years old,Male,43000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -4215,7 +4131,6 @@
 27465,United States,35 - 44 years old,Male,130000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 27475,United States,35 - 44 years old,Male,105000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 27487,United States,18 - 24 years old,Male,80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-27493,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",115000.0,Some college/university study without earning a degree
 27497,United States,25 - 34 years old,Female,53000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 27498,United States,25 - 34 years old,Male,165000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 27514,United States,35 - 44 years old,Male,180000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -4374,7 +4289,6 @@
 28381,United States,25 - 34 years old,Male,122500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 28383,United States,25 - 34 years old,Male,42000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 28386,United States,55 - 64 years old,Male,40000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-28395,United States,18 - 24 years old,Transgender,68000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 28401,United States,35 - 44 years old,Male,130000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 28408,United States,25 - 34 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 28413,United States,25 - 34 years old,Male,125000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -4397,11 +4311,9 @@
 28550,United States,45 - 54 years old,Male,68000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 28553,United States,25 - 34 years old,Male,106000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 28562,United States,55 - 64 years old,Male,10000.0,Associate degree
-28571,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",72500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 28594,United States,25 - 34 years old,Female,51000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 28596,United States,25 - 34 years old,Male,72000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 28597,United States,35 - 44 years old,Male,150000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-28618,United States,55 - 64 years old,"Non-binary, genderqueer, or gender non-conforming",175384.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 28626,United States,35 - 44 years old,Male,73000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 28637,United States,25 - 34 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 28640,United States,35 - 44 years old,Male,170000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -4428,19 +4340,16 @@
 28729,United States,25 - 34 years old,Male,115000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 28749,United States,18 - 24 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 28755,United States,25 - 34 years old,Male,152000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-28759,United States,35 - 44 years old,"Transgender;Non-binary, genderqueer, or gender non-conforming",120000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 28765,United States,35 - 44 years old,Male,124000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 28769,United States,25 - 34 years old,Male,95000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 28773,United States,18 - 24 years old,Male,57000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 28779,United States,25 - 34 years old,Male,32000.0,Some college/university study without earning a degree
 28784,United States,35 - 44 years old,Male,91000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-28793,United States,25 - 34 years old,"Transgender;Non-binary, genderqueer, or gender non-conforming",75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 28795,United States,25 - 34 years old,Male,72000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 28801,United States,18 - 24 years old,Male,76000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 28803,United States,35 - 44 years old,Male,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 28804,United States,35 - 44 years old,Male,108000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 28809,United States,35 - 44 years old,Male,66000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-28814,United States,25 - 34 years old,"Transgender;Non-binary, genderqueer, or gender non-conforming",100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 28816,United States,25 - 34 years old,Male,93500.0,Some college/university study without earning a degree
 28818,United States,35 - 44 years old,Male,350000.0,Some college/university study without earning a degree
 28829,United States,25 - 34 years old,Male,90000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -4459,10 +4368,8 @@
 28916,United States,35 - 44 years old,Male,115000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 28929,United States,35 - 44 years old,Male,115000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 28939,United States,45 - 54 years old,Male,70000.0,Some college/university study without earning a degree
-28946,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",146000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 28947,United States,25 - 34 years old,Male,65000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 28956,United States,35 - 44 years old,Male,141900.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-28967,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 28976,United States,35 - 44 years old,Male,156000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 28988,United States,25 - 34 years old,Male,125000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 28998,United States,25 - 34 years old,Male,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -4504,7 +4411,6 @@
 29218,United States,25 - 34 years old,Male,110000.0,Associate degree
 29224,United States,25 - 34 years old,Male,88000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 29230,United States,45 - 54 years old,Male,210000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-29231,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 29237,United States,25 - 34 years old,Male,61000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 29250,United States,35 - 44 years old,Male,55000.0,Associate degree
 29253,United States,25 - 34 years old,Female,69500.0,Some college/university study without earning a degree
@@ -4540,7 +4446,6 @@
 29467,United States,18 - 24 years old,Male,55000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 29479,United States,25 - 34 years old,Male,114000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 29486,United States,25 - 34 years old,Female,90000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-29490,United States,18 - 24 years old,Female;Male,72000.0,Associate degree
 29492,United States,25 - 34 years old,Male,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 29504,United States,45 - 54 years old,Male,125000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 29514,United States,45 - 54 years old,Female,110000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -4578,7 +4483,6 @@
 29720,United States,25 - 34 years old,Male,92000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 29724,United States,35 - 44 years old,Male,87000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 29728,United States,25 - 34 years old,Male,89000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-29768,United States,25 - 34 years old,Female;Transgender,55000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 29775,United States,25 - 34 years old,Male,110000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 29783,United States,35 - 44 years old,Male,80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 29786,United States,45 - 54 years old,Male,78000.0,Some college/university study without earning a degree
@@ -4620,9 +4524,7 @@
 30034,United States,25 - 34 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 30042,United States,45 - 54 years old,Male,89175.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 30043,United States,35 - 44 years old,Male,120000.0,Associate degree
-30045,United States,18 - 24 years old,Female;Transgender,73440.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 30053,United States,25 - 34 years old,Male,165000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-30056,United States,35 - 44 years old,"Transgender;Non-binary, genderqueer, or gender non-conforming",60000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 30059,United States,18 - 24 years old,Male,1330.0,Some college/university study without earning a degree
 30063,United States,18 - 24 years old,Male,65000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 30079,United States,25 - 34 years old,Male,150000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -4708,7 +4610,6 @@
 30583,United States,25 - 34 years old,Male,73500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 30594,United States,35 - 44 years old,Male,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 30609,United States,45 - 54 years old,Male,103000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
-30610,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 30614,United States,18 - 24 years old,Male,50000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 30631,United States,35 - 44 years old,Male,75000.0,Some college/university study without earning a degree
 30647,United States,35 - 44 years old,Male,71000.0,Associate degree
@@ -4716,7 +4617,6 @@
 30654,United States,18 - 24 years old,Male,98000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 30655,United States,25 - 34 years old,Male,65000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 30658,United States,25 - 34 years old,Male,140000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-30662,United States,25 - 34 years old,"Male;Non-binary, genderqueer, or gender non-conforming",41000.0,Associate degree
 30673,United States,25 - 34 years old,Male,150000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 30677,United States,25 - 34 years old,Male,97500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 30678,United States,25 - 34 years old,Male,125000.0,Some college/university study without earning a degree
@@ -4799,7 +4699,6 @@
 31209,United States,35 - 44 years old,Male,98200.0,Some college/university study without earning a degree
 31219,United States,45 - 54 years old,Male,96000.0,Associate degree
 31233,United States,25 - 34 years old,Male,98000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-31239,United States,18 - 24 years old,Female;Transgender,12000.0,Associate degree
 31244,United States,25 - 34 years old,Male,90000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 31251,United States,25 - 34 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 31262,United States,25 - 34 years old,Male,92000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -4844,7 +4743,6 @@
 31505,United States,25 - 34 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 31528,United States,25 - 34 years old,Male,81000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 31552,United States,25 - 34 years old,Male,120000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
-31556,United States,25 - 34 years old,Female;Transgender,90000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 31562,United States,18 - 24 years old,Female,39500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 31565,United States,25 - 34 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 31568,United States,25 - 34 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -4934,7 +4832,6 @@
 32097,United States,45 - 54 years old,Male,250000.0,"Professional degree (JD, MD, etc.)"
 32100,United States,25 - 34 years old,Male,115000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 32107,United States,35 - 44 years old,Female,80000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-32118,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",90000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 32124,United States,25 - 34 years old,Male,85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 32135,United States,25 - 34 years old,Male,150000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 32148,United States,25 - 34 years old,Male,132000.0,Some college/university study without earning a degree
@@ -4962,7 +4859,6 @@
 32276,United States,55 - 64 years old,Male,115000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 32284,United States,25 - 34 years old,Male,110000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 32291,United States,18 - 24 years old,Female,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-32294,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",115000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 32295,United States,25 - 34 years old,Male,80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 32297,United States,45 - 54 years old,Male,185000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 32298,United States,18 - 24 years old,Male,216.0,Some college/university study without earning a degree
@@ -5007,7 +4903,6 @@
 32545,United States,18 - 24 years old,Male,35396.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 32550,United States,35 - 44 years old,Male,135500.0,Some college/university study without earning a degree
 32559,United States,18 - 24 years old,Male,60000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-32561,United States,25 - 34 years old,Female;Transgender,71400.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 32564,United States,35 - 44 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 32566,United States,18 - 24 years old,Female,53000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 32573,United States,35 - 44 years old,Male,150000.0,Some college/university study without earning a degree
@@ -5016,7 +4911,6 @@
 32601,United States,35 - 44 years old,Male,105000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 32603,United States,35 - 44 years old,Male,144000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 32611,United States,45 - 54 years old,Male,114500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-32615,United States,18 - 24 years old,"Male;Non-binary, genderqueer, or gender non-conforming",40000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 32624,United States,25 - 34 years old,Male,65000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 32627,United States,35 - 44 years old,Male,80000.0,Associate degree
 32635,United States,18 - 24 years old,Female,68000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -5057,7 +4951,6 @@
 32824,United States,25 - 34 years old,Male,105000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 32841,United States,25 - 34 years old,Male,104000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 32846,United States,55 - 64 years old,Male,130000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
-32848,United States,45 - 54 years old,Female;Transgender,2000000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 32857,United States,25 - 34 years old,Male,120000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 32859,United States,35 - 44 years old,Male,177000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 32867,United States,35 - 44 years old,Male,108000.0,Associate degree
@@ -5175,7 +5068,6 @@
 33740,United States,25 - 34 years old,Female,55000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 33741,United States,35 - 44 years old,Male,135000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 33748,United States,25 - 34 years old,Male,77000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-33759,United States,18 - 24 years old,"Male;Non-binary, genderqueer, or gender non-conforming",75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 33763,United States,35 - 44 years old,Male,89000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 33787,United States,25 - 34 years old,Male,42000.0,Some college/university study without earning a degree
 33788,United States,25 - 34 years old,Male,124000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -5259,14 +5151,12 @@
 34272,United States,25 - 34 years old,Male,130000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 34283,United States,35 - 44 years old,Male,140000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 34284,United States,25 - 34 years old,Male,73800.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-34285,United States,25 - 34 years old,Transgender,80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 34288,United States,25 - 34 years old,Male,100000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 34309,United States,25 - 34 years old,Male,70000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 34318,United States,25 - 34 years old,Male,85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 34319,United States,18 - 24 years old,Female,65000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 34320,United States,25 - 34 years old,Male,125300.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 34338,United States,25 - 34 years old,Male,65000.0,Associate degree
-34362,United States,25 - 34 years old,Female;Transgender,115000.0,Some college/university study without earning a degree
 34363,United States,35 - 44 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 34368,United States,35 - 44 years old,Male,118000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 34376,United States,18 - 24 years old,Male,65000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
@@ -5329,7 +5219,6 @@
 34754,United States,25 - 34 years old,Male,85000.0,Some college/university study without earning a degree
 34755,United States,25 - 34 years old,Female,48000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 34763,United States,25 - 34 years old,Male,37000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-34767,United States,25 - 34 years old,"Male;Non-binary, genderqueer, or gender non-conforming",160000.0,Some college/university study without earning a degree
 34786,United States,18 - 24 years old,Male,50000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 34792,United States,18 - 24 years old,Male,80000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 34800,United States,18 - 24 years old,Male,65000.0,Some college/university study without earning a degree
@@ -5338,7 +5227,6 @@
 34830,United States,25 - 34 years old,Male,144000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 34835,United States,35 - 44 years old,Male,105000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 34839,United States,45 - 54 years old,Male,30000.0,Some college/university study without earning a degree
-34843,United States,35 - 44 years old,"Non-binary, genderqueer, or gender non-conforming",65000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 34847,United States,35 - 44 years old,Female,85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 34850,United States,25 - 34 years old,Male,105000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 34851,United States,25 - 34 years old,Male,80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -5390,7 +5278,6 @@
 35167,United States,25 - 34 years old,Female,30000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 35172,United States,35 - 44 years old,Male,90000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 35183,United States,25 - 34 years old,Male,57000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-35184,United States,25 - 34 years old,Male;Transgender,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 35194,United States,25 - 34 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 35195,United States,25 - 34 years old,Male,110000.0,Some college/university study without earning a degree
 35208,United States,35 - 44 years old,Male,0.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -5399,7 +5286,6 @@
 35223,United States,25 - 34 years old,Male,110000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 35225,United States,25 - 34 years old,Male,119000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 35231,United States,18 - 24 years old,Male,60000.0,Associate degree
-35243,United States,25 - 34 years old,Male;Transgender,95000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 35257,United States,25 - 34 years old,Male,88500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 35258,United States,25 - 34 years old,Male,85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 35262,United States,25 - 34 years old,Male,110000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -5505,7 +5391,6 @@
 35864,United States,35 - 44 years old,Male,140000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 35868,United States,18 - 24 years old,Male,136000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 35881,United States,25 - 34 years old,Male,90000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-35887,United States,25 - 34 years old,Female;Transgender,175000.0,Some college/university study without earning a degree
 35891,United States,35 - 44 years old,Male,82000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 35904,United States,45 - 54 years old,Male,240000.0,Some college/university study without earning a degree
 35907,United States,18 - 24 years old,Male,80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -5567,7 +5452,6 @@
 36194,United States,25 - 34 years old,Male,90000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 36207,United States,35 - 44 years old,Male,65000.0,Some college/university study without earning a degree
 36208,United States,25 - 34 years old,Male,140000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-36210,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",105000.0,Some college/university study without earning a degree
 36216,United States,45 - 54 years old,Male,145000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 36223,United States,18 - 24 years old,Male,61666.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 36229,United States,25 - 34 years old,Male,111000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -5628,7 +5512,6 @@
 36555,United States,18 - 24 years old,Male,400.0,Some college/university study without earning a degree
 36560,United States,45 - 54 years old,Male,207000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 36562,United States,25 - 34 years old,Male,93600.0,Some college/university study without earning a degree
-36563,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 36567,United States,25 - 34 years old,Male,185400.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 36570,United States,45 - 54 years old,Male,135000.0,Associate degree
 36581,United States,18 - 24 years old,Male,90000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -5664,7 +5547,6 @@
 36785,United States,35 - 44 years old,Male,79000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 36786,United States,18 - 24 years old,Male,70000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 36790,United States,35 - 44 years old,Male,145000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-36792,United States,18 - 24 years old,"Male;Transgender;Non-binary, genderqueer, or gender non-conforming",105000.0,Some college/university study without earning a degree
 36803,United States,45 - 54 years old,Male,104000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 36820,United States,18 - 24 years old,Male,70000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 36821,United States,35 - 44 years old,Male,196000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -5699,7 +5581,6 @@
 36995,United States,35 - 44 years old,Male,200000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 37001,United States,18 - 24 years old,Male,64000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 37003,United States,25 - 34 years old,Male,73500.0,Associate degree
-37005,United States,25 - 34 years old,Female;Transgender,42000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 37008,United States,25 - 34 years old,Male,105000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 37010,United States,25 - 34 years old,Female,60000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 37011,United States,25 - 34 years old,Male,109000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -5783,7 +5664,6 @@
 37525,United States,25 - 34 years old,Male,102000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 37527,United States,25 - 34 years old,Male,70000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 37529,United States,25 - 34 years old,Male,110000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-37532,United States,25 - 34 years old,"Transgender;Non-binary, genderqueer, or gender non-conforming",75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 37535,United States,25 - 34 years old,Male,125000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 37539,United States,35 - 44 years old,Male,102000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 37544,United States,35 - 44 years old,Male,350000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
@@ -5880,7 +5760,6 @@
 38188,United States,25 - 34 years old,Male,140000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 38192,United States,35 - 44 years old,Male,90000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 38196,United States,25 - 34 years old,Male,90000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
-38197,United States,18 - 24 years old,Transgender,35000.0,Some college/university study without earning a degree
 38198,United States,25 - 34 years old,Male,88000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 38200,United States,45 - 54 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 38201,United States,25 - 34 years old,Male,115000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -5890,7 +5769,6 @@
 38211,United States,35 - 44 years old,Male,108000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 38222,United States,25 - 34 years old,Male,42000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 38227,United States,18 - 24 years old,Male,500.0,Some college/university study without earning a degree
-38232,United States,25 - 34 years old,"Male;Non-binary, genderqueer, or gender non-conforming",66000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 38238,United States,25 - 34 years old,Male,70000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 38257,United States,18 - 24 years old,Male,40000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 38263,United States,35 - 44 years old,Male,160000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -5913,7 +5791,6 @@
 38368,United States,25 - 34 years old,Male,97000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 38370,United States,35 - 44 years old,Male,70534.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 38371,United States,25 - 34 years old,Male,180939.0,Some college/university study without earning a degree
-38383,United States,35 - 44 years old,"Transgender;Non-binary, genderqueer, or gender non-conforming",150000.0,I never completed any formal education
 38394,United States,35 - 44 years old,Male,121000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 38401,United States,35 - 44 years old,Male,140000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 38413,United States,25 - 34 years old,Male,65000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -5989,7 +5866,6 @@
 38808,United States,35 - 44 years old,Male,150000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 38810,United States,35 - 44 years old,Male,81000.0,Some college/university study without earning a degree
 38817,United States,45 - 54 years old,Male,130000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-38821,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",63000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 38826,United States,45 - 54 years old,Male,107000.0,Some college/university study without earning a degree
 38832,United States,18 - 24 years old,Male,48000.0,Some college/university study without earning a degree
 38840,United States,18 - 24 years old,Male,66000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -5997,7 +5873,6 @@
 38864,United States,25 - 34 years old,Male,42000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 38869,United States,45 - 54 years old,Male,90500.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 38871,United States,35 - 44 years old,Female,170000.0,Some college/university study without earning a degree
-38883,United States,35 - 44 years old,"Non-binary, genderqueer, or gender non-conforming",130000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 38886,United States,45 - 54 years old,Male,130000.0,Some college/university study without earning a degree
 38887,United States,25 - 34 years old,Male,7000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 38890,United States,18 - 24 years old,Male,76000.0,Some college/university study without earning a degree
@@ -6031,7 +5906,6 @@
 39080,United States,25 - 34 years old,Female,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 39082,United States,25 - 34 years old,Female,128029.0,Associate degree
 39083,United States,25 - 34 years old,Male,70000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-39087,United States,25 - 34 years old,Transgender,85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 39107,United States,25 - 34 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 39111,United States,25 - 34 years old,Male,110000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 39112,United States,25 - 34 years old,Male,84000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -6059,7 +5933,6 @@
 39250,United States,25 - 34 years old,Male,90000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 39255,United States,25 - 34 years old,Male,60000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 39277,United States,25 - 34 years old,Male,145000.0,Some college/university study without earning a degree
-39285,United States,35 - 44 years old,Transgender,66000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 39300,United States,55 - 64 years old,Male,74000.0,Some college/university study without earning a degree
 39311,United States,25 - 34 years old,Female,71000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 39312,United States,25 - 34 years old,Female,74000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -6080,7 +5953,6 @@
 39379,United States,25 - 34 years old,Male,85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 39389,United States,25 - 34 years old,Male,65000.0,Some college/university study without earning a degree
 39399,United States,25 - 34 years old,Male,72000.0,Associate degree
-39401,United States,25 - 34 years old,Transgender,60000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 39417,United States,35 - 44 years old,Male,250000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 39424,United States,45 - 54 years old,Male,80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 39428,United States,25 - 34 years old,Male,111000.0,Associate degree
@@ -6166,7 +6038,6 @@
 39977,United States,35 - 44 years old,Male,180000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 39980,United States,25 - 34 years old,Male,96500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 39988,United States,18 - 24 years old,Male,150000.0,Some college/university study without earning a degree
-40020,United States,35 - 44 years old,Transgender,110000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 40023,United States,45 - 54 years old,Male,175000.0,Some college/university study without earning a degree
 40024,United States,45 - 54 years old,Male,350000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 40028,United States,25 - 34 years old,Male,112320.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
@@ -6247,12 +6118,10 @@
 40494,United States,25 - 34 years old,Male,54000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 40500,United States,35 - 44 years old,Male,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 40503,United States,35 - 44 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-40505,United States,25 - 34 years old,"Male;Non-binary, genderqueer, or gender non-conforming",60000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 40508,United States,25 - 34 years old,Male,79032.5,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 40510,United States,18 - 24 years old,Female,84000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 40518,United States,25 - 34 years old,Male,55000.0,Some college/university study without earning a degree
 40520,United States,35 - 44 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-40521,United States,18 - 24 years old,Female;Transgender,11520.0,Some college/university study without earning a degree
 40526,United States,25 - 34 years old,Male,59115.0,Some college/university study without earning a degree
 40534,United States,25 - 34 years old,Male,128000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 40559,United States,35 - 44 years old,Male,107000.0,Associate degree
@@ -6323,7 +6192,6 @@
 40960,United States,18 - 24 years old,Male,65000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 40965,United States,35 - 44 years old,Female,175000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 40971,United States,45 - 54 years old,Female,130000.0,Some college/university study without earning a degree
-40981,United States,35 - 44 years old,"Transgender;Non-binary, genderqueer, or gender non-conforming",86000.0,Some college/university study without earning a degree
 40983,United States,25 - 34 years old,Male,62000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 40990,United States,25 - 34 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 40999,United States,25 - 34 years old,Male,89200.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -6342,7 +6210,6 @@
 41117,United States,25 - 34 years old,Male,71000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 41126,United States,35 - 44 years old,Male,130000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 41139,United States,35 - 44 years old,Male,92224.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-41145,United States,25 - 34 years old,"Female;Transgender;Non-binary, genderqueer, or gender non-conforming",85000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 41150,United States,25 - 34 years old,Female,73000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 41163,United States,25 - 34 years old,Male,81900.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 41169,United States,25 - 34 years old,Male,60000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -6470,7 +6337,6 @@
 41998,United States,25 - 34 years old,Male,117500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 41999,United States,25 - 34 years old,Male,108000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 42005,United States,18 - 24 years old,Male,60000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-42008,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",45000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 42013,United States,25 - 34 years old,Male,93000.0,Some college/university study without earning a degree
 42015,United States,18 - 24 years old,Male,66000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 42022,United States,35 - 44 years old,Male,150000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -6507,7 +6373,6 @@
 42241,United States,25 - 34 years old,Male,120000.0,Some college/university study without earning a degree
 42244,United States,25 - 34 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 42247,United States,25 - 34 years old,Male,150000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-42252,United States,18 - 24 years old,"Non-binary, genderqueer, or gender non-conforming",48000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 42255,United States,18 - 24 years old,Male,50000.0,Some college/university study without earning a degree
 42258,United States,25 - 34 years old,Male,125000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 42263,United States,55 - 64 years old,Male,140000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -6518,9 +6383,7 @@
 42285,United States,18 - 24 years old,Male,80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 42290,United States,45 - 54 years old,Male,144000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 42300,United States,25 - 34 years old,Male,70000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
-42301,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",80000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 42303,United States,25 - 34 years old,Female,82500.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-42304,United States,25 - 34 years old,"Female;Transgender;Non-binary, genderqueer, or gender non-conforming",100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 42316,United States,25 - 34 years old,Male,180000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 42317,United States,25 - 34 years old,Male,113000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 42318,United States,25 - 34 years old,Male,65000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -6642,7 +6505,6 @@
 43034,United States,18 - 24 years old,Female,70000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 43036,United States,25 - 34 years old,Male,74000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 43039,United States,18 - 24 years old,Male,7250.0,Some college/university study without earning a degree
-43041,United States,45 - 54 years old,Female;Transgender,200000.0,Some college/university study without earning a degree
 43055,United States,25 - 34 years old,Male,85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 43061,United States,35 - 44 years old,Male,180000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 43065,United States,25 - 34 years old,Male,64000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -6659,7 +6521,6 @@
 43107,United States,35 - 44 years old,Male,169000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 43109,United States,35 - 44 years old,Male,147500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 43121,United States,35 - 44 years old,Male,185000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-43124,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",105000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 43139,United States,18 - 24 years old,Male,110000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 43145,United States,45 - 54 years old,Male,118993.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 43166,United States,25 - 34 years old,Male,92000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -6691,7 +6552,6 @@
 43344,United States,18 - 24 years old,Male,105000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 43346,United States,45 - 54 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 43350,United States,45 - 54 years old,Male,193000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-43352,United States,18 - 24 years old,Female;Transgender,2250.0,Some college/university study without earning a degree
 43360,United States,25 - 34 years old,Male,110000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 43363,United States,25 - 34 years old,Female,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 43365,United States,25 - 34 years old,Male,350000.0,Some college/university study without earning a degree
@@ -6725,7 +6585,6 @@
 43554,United States,25 - 34 years old,Male,47000.0,Associate degree
 43556,United States,45 - 54 years old,Male,80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 43562,United States,45 - 54 years old,Male,95000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-43566,United States,18 - 24 years old,Female;Transgender,70000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 43573,United States,25 - 34 years old,Male,86000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 43592,United States,35 - 44 years old,Male,115000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 43601,United States,35 - 44 years old,Male,108000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -6755,7 +6614,6 @@
 43797,United States,35 - 44 years old,Male,126000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 43804,United States,25 - 34 years old,Male,90000.0,Some college/university study without earning a degree
 43815,United States,25 - 34 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-43824,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",87500.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 43825,United States,25 - 34 years old,Male,108000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 43827,United States,25 - 34 years old,Female,64000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 43832,United States,25 - 34 years old,Male,122000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -7105,7 +6963,6 @@
 46089,United States,35 - 44 years old,Male,141000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 46100,United States,25 - 34 years old,Male,90000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 46114,United States,18 - 24 years old,Male,25000.0,Some college/university study without earning a degree
-46120,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",52500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 46126,United States,25 - 34 years old,Male,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 46137,United States,25 - 34 years old,Male,108000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 46147,United States,25 - 34 years old,Male,106500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -7174,7 +7031,6 @@
 46552,United States,25 - 34 years old,Male,240000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 46563,United States,18 - 24 years old,Male,25000.0,Some college/university study without earning a degree
 46564,United States,35 - 44 years old,Male,150000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-46573,United States,35 - 44 years old,Female;Transgender,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 46577,United States,25 - 34 years old,Male,51313.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 46589,United States,35 - 44 years old,Male,105000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 46598,United States,25 - 34 years old,Male,55000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -7212,7 +7068,6 @@
 46806,United States,25 - 34 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 46807,United States,35 - 44 years old,Male,106900.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 46809,United States,35 - 44 years old,Male,80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-46818,United States,35 - 44 years old,"Non-binary, genderqueer, or gender non-conforming",50000.0,Some college/university study without earning a degree
 46839,United States,25 - 34 years old,Male,137000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 46852,United States,18 - 24 years old,Male,70000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 46863,United States,35 - 44 years old,Male,506000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -7244,8 +7099,6 @@
 46967,United States,35 - 44 years old,Male,78000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 46972,United States,25 - 34 years old,Male,130000.0,Some college/university study without earning a degree
 46976,United States,35 - 44 years old,Male,185000.0,Some college/university study without earning a degree
-46979,United States,25 - 34 years old,Female;Transgender,130000.0,Associate degree
-46983,United States,35 - 44 years old,"Female;Non-binary, genderqueer, or gender non-conforming",63000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 46991,United States,25 - 34 years old,Male,125000.0,Some college/university study without earning a degree
 46995,United States,35 - 44 years old,Male,144000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 47002,United States,45 - 54 years old,Male,124000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -7274,7 +7127,6 @@
 47132,United States,35 - 44 years old,Male,100000.0,Some college/university study without earning a degree
 47136,United States,25 - 34 years old,Male,67500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 47139,United States,25 - 34 years old,Female,95000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-47143,United States,18 - 24 years old,"Non-binary, genderqueer, or gender non-conforming",1200.0,Some college/university study without earning a degree
 47145,United States,35 - 44 years old,Male,134000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 47172,United States,25 - 34 years old,Male,100000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 47180,United States,45 - 54 years old,Female,62000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -7319,7 +7171,6 @@
 47466,United States,25 - 34 years old,Male,30000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 47473,United States,35 - 44 years old,Male,130000.0,Some college/university study without earning a degree
 47483,United States,18 - 24 years old,Male,112600.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-47487,United States,35 - 44 years old,Male;Transgender,103000.0,Some college/university study without earning a degree
 47488,United States,25 - 34 years old,Male,100000.0,Some college/university study without earning a degree
 47491,United States,25 - 34 years old,Male,150000.0,Some college/university study without earning a degree
 47493,United States,25 - 34 years old,Male,50000.0,Associate degree
@@ -7382,7 +7233,6 @@
 47783,United States,25 - 34 years old,Male,102000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 47803,United States,45 - 54 years old,Male,170000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 47805,United States,25 - 34 years old,Male,49900.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-47807,United States,35 - 44 years old,"Non-binary, genderqueer, or gender non-conforming",140000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 47811,United States,25 - 34 years old,Male,68000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 47813,United States,25 - 34 years old,Male,165000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 47817,United States,25 - 34 years old,Male,112000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -7479,7 +7329,6 @@
 48433,United States,18 - 24 years old,Male,118500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 48452,United States,55 - 64 years old,Male,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 48461,United States,25 - 34 years old,Male,116000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-48465,United States,25 - 34 years old,Transgender,1336.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 48466,United States,25 - 34 years old,Male,63700.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 48467,United States,25 - 34 years old,Male,135000.0,Some college/university study without earning a degree
 48470,United States,25 - 34 years old,Male,106000.0,Some college/university study without earning a degree
@@ -7610,7 +7459,6 @@
 49147,United States,55 - 64 years old,Male,120000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 49154,United States,35 - 44 years old,Male,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 49162,United States,18 - 24 years old,Male,85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-49169,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",115000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 49173,United States,18 - 24 years old,Male,42000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 49174,United States,25 - 34 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 49176,United States,45 - 54 years old,Male,90000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -7623,7 +7471,6 @@
 49224,United States,35 - 44 years old,Male,105000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 49229,United States,18 - 24 years old,Male,85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 49230,United States,18 - 24 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-49232,United States,25 - 34 years old,"Male;Non-binary, genderqueer, or gender non-conforming",90000.0,Some college/university study without earning a degree
 49236,United States,25 - 34 years old,Male,69500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 49237,United States,25 - 34 years old,Male,83000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 49240,United States,25 - 34 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -7639,7 +7486,6 @@
 49307,United States,25 - 34 years old,Male,104000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 49317,United States,25 - 34 years old,Male,166000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 49320,United States,18 - 24 years old,Male,140000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-49326,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",54000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 49330,United States,35 - 44 years old,Male,74000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 49332,United States,25 - 34 years old,Male,76800.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 49334,United States,25 - 34 years old,Male,8000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -7665,11 +7511,9 @@
 49468,United States,35 - 44 years old,Female,56160.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 49475,United States,45 - 54 years old,Male,94000.0,Some college/university study without earning a degree
 49476,United States,25 - 34 years old,Male,148500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-49479,United States,18 - 24 years old,"Non-binary, genderqueer, or gender non-conforming",67000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 49483,United States,18 - 24 years old,Male,1100.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 49484,United States,35 - 44 years old,Male,135000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 49493,United States,35 - 44 years old,Male,120000.0,Some college/university study without earning a degree
-49496,United States,25 - 34 years old,"Male;Non-binary, genderqueer, or gender non-conforming",80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 49498,United States,25 - 34 years old,Male,150000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 49502,United States,35 - 44 years old,Male,102000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 49503,United States,25 - 34 years old,Male,100500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -7762,7 +7606,6 @@
 50066,United States,25 - 34 years old,Male,109000.0,Some college/university study without earning a degree
 50070,United States,25 - 34 years old,Male,40000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 50084,United States,25 - 34 years old,Female,150000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-50091,United States,35 - 44 years old,"Male;Non-binary, genderqueer, or gender non-conforming",88500.0,Associate degree
 50103,United States,35 - 44 years old,Male,155000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 50108,United States,25 - 34 years old,Male,125000.0,Some college/university study without earning a degree
 50111,United States,55 - 64 years old,Male,72000.0,Associate degree
@@ -7780,7 +7623,6 @@
 50229,United States,25 - 34 years old,Male,105000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 50243,United States,25 - 34 years old,Male,92000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 50244,United States,25 - 34 years old,Male,150000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-50255,United States,25 - 34 years old,"Male;Non-binary, genderqueer, or gender non-conforming",144000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 50257,United States,45 - 54 years old,Male,115000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 50265,United States,35 - 44 years old,Male,150000.0,Some college/university study without earning a degree
 50269,United States,18 - 24 years old,Male,20000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -7851,7 +7693,6 @@
 50727,United States,25 - 34 years old,Male,56500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 50737,United States,25 - 34 years old,Male,120000.0,Some college/university study without earning a degree
 50738,United States,45 - 54 years old,Male,10000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-50747,United States,25 - 34 years old,Female;Transgender,40000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 50754,United States,18 - 24 years old,Male,70000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 50759,United States,25 - 34 years old,Male,33280.0,Some college/university study without earning a degree
 50760,United States,25 - 34 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -7927,7 +7768,6 @@
 51188,United States,25 - 34 years old,Male,123000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 51190,United States,35 - 44 years old,Male,95000.0,Associate degree
 51194,United States,35 - 44 years old,Male,73000.0,Some college/university study without earning a degree
-51197,United States,25 - 34 years old,"Transgender;Non-binary, genderqueer, or gender non-conforming",175000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 51237,United States,25 - 34 years old,Female,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 51238,United States,18 - 24 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 51244,United States,18 - 24 years old,Male,175000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -7941,7 +7781,6 @@
 51295,United States,45 - 54 years old,Male,95000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 51296,United States,25 - 34 years old,Male,83500.0,"Professional degree (JD, MD, etc.)"
 51301,United States,25 - 34 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-51304,United States,25 - 34 years old,Transgender,55000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 51307,United States,35 - 44 years old,Male,80000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 51312,United States,25 - 34 years old,Female,55000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 51317,United States,35 - 44 years old,Male,73000.0,Some college/university study without earning a degree
@@ -7973,7 +7812,6 @@
 51473,United States,25 - 34 years old,Male,120000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 51479,United States,18 - 24 years old,Male,86.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 51481,United States,35 - 44 years old,Male,94750.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-51484,United States,18 - 24 years old,"Non-binary, genderqueer, or gender non-conforming",90000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 51486,United States,45 - 54 years old,Male,160000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 51498,United States,45 - 54 years old,Male,98000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 51503,United States,45 - 54 years old,Male,45000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -7986,13 +7824,11 @@
 51556,United States,45 - 54 years old,Male,200000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 51561,United States,25 - 34 years old,Male,133000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 51573,United States,45 - 54 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-51577,United States,35 - 44 years old,"Female;Non-binary, genderqueer, or gender non-conforming",144000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 51588,United States,35 - 44 years old,Female,82000.0,Some college/university study without earning a degree
 51590,United States,35 - 44 years old,Male,88000.0,Associate degree
 51591,United States,35 - 44 years old,Male,95000.0,Some college/university study without earning a degree
 51596,United States,35 - 44 years old,Male,140000.0,Associate degree
 51598,United States,25 - 34 years old,Male,135000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-51599,United States,25 - 34 years old,Male;Transgender,86500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 51604,United States,35 - 44 years old,Male,79000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 51608,United States,18 - 24 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 51624,United States,25 - 34 years old,Male,110000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -8023,7 +7859,6 @@
 51808,United States,45 - 54 years old,Male,160000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 51815,United States,45 - 54 years old,Male,125000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 51820,United States,35 - 44 years old,Male,210000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
-51830,United States,25 - 34 years old,"Male;Non-binary, genderqueer, or gender non-conforming",150000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 51838,United States,35 - 44 years old,Female,65000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 51858,United States,25 - 34 years old,Male,52000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 51862,United States,25 - 34 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -8074,7 +7909,6 @@
 52114,United States,18 - 24 years old,Male,48000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 52115,United States,18 - 24 years old,Male,6000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 52116,United States,25 - 34 years old,Male,60000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-52117,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",88000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 52123,United States,35 - 44 years old,Male,150000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 52126,United States,35 - 44 years old,Male,240000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 52127,United States,55 - 64 years old,Male,95000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -8089,7 +7923,6 @@
 52173,United States,45 - 54 years old,Male,250000.0,Some college/university study without earning a degree
 52193,United States,25 - 34 years old,Male,70000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 52194,United States,35 - 44 years old,Male,1500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-52201,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 52203,United States,25 - 34 years old,Male,62000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 52214,United States,35 - 44 years old,Male,3000.0,Associate degree
 52215,United States,25 - 34 years old,Male,81000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -8167,7 +8000,6 @@
 52702,United States,25 - 34 years old,Male,140000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 52709,United States,25 - 34 years old,Male,58000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 52710,United States,25 - 34 years old,Male,81000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-52711,United States,25 - 34 years old,Male;Transgender,144500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 52715,United States,25 - 34 years old,Male,94000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 52724,United States,25 - 34 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 52727,United States,25 - 34 years old,Male,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -8182,7 +8014,6 @@
 52763,United States,45 - 54 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 52773,United States,35 - 44 years old,Male,131000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 52775,United States,25 - 34 years old,Male,80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-52780,United States,25 - 34 years old,"Female;Non-binary, genderqueer, or gender non-conforming",65000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 52792,United States,25 - 34 years old,Male,80000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 52799,United States,25 - 34 years old,Male,54000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 52810,United States,45 - 54 years old,Male,100000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
@@ -8212,7 +8043,6 @@
 52994,United States,18 - 24 years old,Male,66000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 53003,United States,25 - 34 years old,Male,80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 53006,United States,35 - 44 years old,Male,100000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-53010,United States,18 - 24 years old,"Female;Non-binary, genderqueer, or gender non-conforming",80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 53015,United States,25 - 34 years old,Male,55000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 53030,United States,45 - 54 years old,Male,95000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 53043,United States,18 - 24 years old,Male,110000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
@@ -8238,7 +8068,6 @@
 53165,United States,35 - 44 years old,Male,93712.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 53176,United States,25 - 34 years old,Male,95500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 53177,United States,25 - 34 years old,Male,101000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-53180,United States,18 - 24 years old,"Female;Non-binary, genderqueer, or gender non-conforming",85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 53182,United States,35 - 44 years old,Male,100000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 53186,United States,25 - 34 years old,Male,115000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 53188,United States,25 - 34 years old,Male,130000.0,Some college/university study without earning a degree
@@ -8297,7 +8126,6 @@
 53551,United States,25 - 34 years old,Female,42000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 53558,United States,18 - 24 years old,Male,80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 53563,United States,25 - 34 years old,Male,186000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-53592,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",118000.0,Some college/university study without earning a degree
 53604,United States,25 - 34 years old,Male,125000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 53605,United States,25 - 34 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 53615,United States,35 - 44 years old,Male,113000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -8329,7 +8157,6 @@
 53834,United States,45 - 54 years old,Male,155000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 53839,United States,35 - 44 years old,Male,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 53843,United States,25 - 34 years old,Male,57200.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-53846,United States,25 - 34 years old,"Male;Non-binary, genderqueer, or gender non-conforming",91000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 53854,United States,25 - 34 years old,Male,105000.0,Some college/university study without earning a degree
 53855,United States,25 - 34 years old,Female,230000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 53859,United States,35 - 44 years old,Male,105000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -8396,7 +8223,6 @@
 54313,United States,25 - 34 years old,Male,93000.0,Some college/university study without earning a degree
 54325,United States,45 - 54 years old,Male,175000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 54330,United States,35 - 44 years old,Male,76000.0,Some college/university study without earning a degree
-54333,United States,18 - 24 years old,"Non-binary, genderqueer, or gender non-conforming",200.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 54334,United States,25 - 34 years old,Male,97000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 54337,United States,25 - 34 years old,Male,192000.0,Primary/elementary school
 54338,United States,35 - 44 years old,Male,168920.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -8448,7 +8274,6 @@
 54712,United States,25 - 34 years old,Male,39000.0,Associate degree
 54718,United States,25 - 34 years old,Male,78000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 54721,United States,25 - 34 years old,Male,61000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-54727,United States,55 - 64 years old,Male;Transgender,135000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 54732,United States,25 - 34 years old,Male,55000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 54741,United States,18 - 24 years old,Male,72000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 54742,United States,25 - 34 years old,Male,100000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -8568,7 +8393,6 @@
 55516,United States,25 - 34 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 55523,United States,25 - 34 years old,Male,157000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 55529,United States,35 - 44 years old,Female,85000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
-55530,United States,25 - 34 years old,Female;Transgender,300000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 55538,United States,25 - 34 years old,Male,115000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 55547,United States,25 - 34 years old,Male,80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 55550,United States,25 - 34 years old,Male,88000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -8700,13 +8524,11 @@
 56427,United States,55 - 64 years old,Male,180000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 56429,United States,35 - 44 years old,Male,128000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 56439,United States,25 - 34 years old,Female,122000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-56441,United States,25 - 34 years old,"Transgender;Non-binary, genderqueer, or gender non-conforming",60000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 56448,United States,25 - 34 years old,Male,68000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 56466,United States,25 - 34 years old,Female,135000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 56471,United States,18 - 24 years old,Male,77000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 56473,United States,25 - 34 years old,Male,88000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 56483,United States,45 - 54 years old,Male,72000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-56486,United States,25 - 34 years old,Female;Transgender,70000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 56494,United States,25 - 34 years old,Male,107000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 56517,United States,45 - 54 years old,Male,204000.0,Some college/university study without earning a degree
 56522,United States,35 - 44 years old,Male,121000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -8739,7 +8561,6 @@
 56698,United States,25 - 34 years old,Male,84000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 56717,United States,35 - 44 years old,Male,127000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 56739,United States,18 - 24 years old,Male,400.0,Some college/university study without earning a degree
-56749,United States,35 - 44 years old,"Transgender;Non-binary, genderqueer, or gender non-conforming",160000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 56751,United States,35 - 44 years old,Male,127000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 56754,United States,35 - 44 years old,Male,110000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 56764,United States,25 - 34 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -8757,7 +8578,6 @@
 56832,United States,25 - 34 years old,Male,110000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 56833,United States,25 - 34 years old,Male,75000.0,Associate degree
 56838,United States,25 - 34 years old,Male,105000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
-56841,United States,25 - 34 years old,Female;Transgender,56000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 56852,United States,18 - 24 years old,Male,58000.0,Some college/university study without earning a degree
 56855,United States,25 - 34 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 56863,United States,35 - 44 years old,Male,111000.0,Associate degree
@@ -8817,7 +8637,6 @@
 57170,United States,35 - 44 years old,Male,145000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 57172,United States,18 - 24 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 57181,United States,25 - 34 years old,Male,92000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-57182,United States,35 - 44 years old,"Female;Non-binary, genderqueer, or gender non-conforming",72000.0,Some college/university study without earning a degree
 57185,United States,35 - 44 years old,Male,70000.0,Some college/university study without earning a degree
 57186,United States,18 - 24 years old,Male,168000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 57198,United States,25 - 34 years old,Male,38000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -8837,7 +8656,6 @@
 57280,United States,25 - 34 years old,Female,100000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 57302,United States,25 - 34 years old,Female,80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 57311,United States,25 - 34 years old,Male,55000.0,Associate degree
-57317,United States,18 - 24 years old,"Non-binary, genderqueer, or gender non-conforming",120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 57321,United States,35 - 44 years old,Male,150000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 57324,United States,35 - 44 years old,Male,135000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 57329,United States,35 - 44 years old,Male,250000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -8901,7 +8719,6 @@
 57810,United States,35 - 44 years old,Male,200000.0,Some college/university study without earning a degree
 57830,United States,18 - 24 years old,Male,56500.0,Some college/university study without earning a degree
 57840,United States,35 - 44 years old,Male,70000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-57848,United States,25 - 34 years old,"Male;Non-binary, genderqueer, or gender non-conforming",5000.0,Some college/university study without earning a degree
 57850,United States,25 - 34 years old,Male,65000.0,Some college/university study without earning a degree
 57852,United States,35 - 44 years old,Male,55000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 57853,United States,35 - 44 years old,Male,138000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -8916,7 +8733,6 @@
 57899,United States,45 - 54 years old,Male,105000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 57900,United States,35 - 44 years old,Male,220000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 57903,United States,25 - 34 years old,Male,150000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
-57906,United States,25 - 34 years old,Transgender,98000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 57912,United States,25 - 34 years old,Male,150000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 57914,United States,25 - 34 years old,Male,86000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 57921,United States,25 - 34 years old,Male,275000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -8986,7 +8802,6 @@
 58250,United States,25 - 34 years old,Male,144000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 58253,United States,25 - 34 years old,Male,72000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 58255,United States,25 - 34 years old,Male,8000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-58260,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",145000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 58284,United States,18 - 24 years old,Male,58000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 58286,United States,25 - 34 years old,Male,85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 58297,United States,25 - 34 years old,Male,24000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -9038,7 +8853,6 @@
 58603,United States,25 - 34 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 58609,United States,25 - 34 years old,Male,25000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 58611,United States,35 - 44 years old,Male,110000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-58614,United States,25 - 34 years old,"Female;Non-binary, genderqueer, or gender non-conforming",95000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 58621,United States,25 - 34 years old,Male,155000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 58623,United States,25 - 34 years old,Male,40000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 58628,United States,18 - 24 years old,Male,70000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -9079,7 +8893,6 @@
 58816,United States,25 - 34 years old,Male,113000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 58818,United States,18 - 24 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 58830,United States,25 - 34 years old,Male,45000.0,Some college/university study without earning a degree
-58832,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",93000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 58836,United States,25 - 34 years old,Male,85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 58838,United States,18 - 24 years old,Male,101000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 58850,United States,25 - 34 years old,Male,80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -9095,7 +8908,6 @@
 58904,United States,18 - 24 years old,Male,80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 58909,United States,25 - 34 years old,Male,85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 58917,United States,35 - 44 years old,Male,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-58920,United States,18 - 24 years old,Female;Transgender,115000.0,Some college/university study without earning a degree
 58943,United States,18 - 24 years old,Male,87500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 58944,United States,25 - 34 years old,Male,109000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 58949,United States,35 - 44 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -9103,11 +8915,9 @@
 58960,United States,35 - 44 years old,Male,120000.0,Associate degree
 58981,United States,35 - 44 years old,Male,153000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 58983,United States,18 - 24 years old,Male,880.0,Associate degree
-58998,United States,25 - 34 years old,"Transgender;Non-binary, genderqueer, or gender non-conforming",110000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 59001,United States,18 - 24 years old,Male,90000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 59021,United States,25 - 34 years old,Male,80000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 59028,United States,35 - 44 years old,Male,330000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-59033,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",72000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 59040,United States,18 - 24 years old,Male,62000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 59048,United States,25 - 34 years old,Male,105000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 59049,United States,35 - 44 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -9117,7 +8927,6 @@
 59079,United States,18 - 24 years old,Male,54000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 59084,United States,25 - 34 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 59087,United States,25 - 34 years old,Male,155000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-59091,United States,18 - 24 years old,"Male;Non-binary, genderqueer, or gender non-conforming",55000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 59092,United States,25 - 34 years old,Female,75000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 59103,United States,25 - 34 years old,Male,74750.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 59105,United States,25 - 34 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -9182,7 +8991,6 @@
 59450,United States,25 - 34 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 59452,United States,35 - 44 years old,Male,119000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 59454,United States,25 - 34 years old,Female,85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-59470,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",100000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 59473,United States,35 - 44 years old,Male,163000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 59476,United States,25 - 34 years old,Male,80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 59477,United States,35 - 44 years old,Male,140000.0,Some college/university study without earning a degree
@@ -9232,7 +9040,6 @@
 59694,United States,55 - 64 years old,Male,129000.0,Associate degree
 59700,United States,25 - 34 years old,Female,80000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 59714,United States,25 - 34 years old,Male,76000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-59717,United States,18 - 24 years old,"Female;Transgender;Non-binary, genderqueer, or gender non-conforming",89000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 59720,United States,18 - 24 years old,Male,50000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 59722,United States,18 - 24 years old,Male,56000.0,Some college/university study without earning a degree
 59723,United States,25 - 34 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -9266,7 +9073,6 @@
 59937,United States,35 - 44 years old,Male,75000.0,Associate degree
 59939,United States,18 - 24 years old,Male,165000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 59940,United States,35 - 44 years old,Male,35000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-59944,United States,25 - 34 years old,Female;Transgender,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 59948,United States,25 - 34 years old,Male,109500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 59953,United States,25 - 34 years old,Male,57000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 59962,United States,18 - 24 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -9280,7 +9086,6 @@
 60015,United States,25 - 34 years old,Male,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 60016,United States,45 - 54 years old,Male,140000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 60025,United States,25 - 34 years old,Male,85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-60032,United States,25 - 34 years old,"Male;Non-binary, genderqueer, or gender non-conforming",113000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 60040,United States,25 - 34 years old,Male,55000.0,Associate degree
 60042,United States,25 - 34 years old,Male,76000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 60048,United States,25 - 34 years old,Female,82000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -9319,7 +9124,6 @@
 60238,United States,35 - 44 years old,Male,127000.0,Some college/university study without earning a degree
 60241,United States,25 - 34 years old,Male,49000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 60253,United States,35 - 44 years old,Male,110000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-60254,United States,25 - 34 years old,Female;Transgender,80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 60256,United States,25 - 34 years old,Male,72000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 60260,United States,25 - 34 years old,Male,171000.0,Some college/university study without earning a degree
 60266,United States,25 - 34 years old,Male,106000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -9362,7 +9166,6 @@
 60596,United States,25 - 34 years old,Male,55000.0,Some college/university study without earning a degree
 60603,United States,25 - 34 years old,Male,43000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 60618,United States,25 - 34 years old,Male,75000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-60620,United States,25 - 34 years old,"Female;Non-binary, genderqueer, or gender non-conforming",62500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 60625,United States,18 - 24 years old,Male,76500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 60626,United States,25 - 34 years old,Male,65000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 60627,United States,35 - 44 years old,Male,90000.0,Some college/university study without earning a degree
@@ -9400,7 +9203,6 @@
 60801,United States,18 - 24 years old,Male,85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 60813,United States,35 - 44 years old,Male,123500.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 60818,United States,25 - 34 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-60837,United States,35 - 44 years old,"Female;Transgender;Non-binary, genderqueer, or gender non-conforming",190000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 60838,United States,18 - 24 years old,Male,1300.0,Associate degree
 60840,United States,25 - 34 years old,Male,90000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 60842,United States,25 - 34 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -9428,7 +9230,6 @@
 60993,United States,35 - 44 years old,Male,95500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 60994,United States,18 - 24 years old,Male,42000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 61000,United States,35 - 44 years old,Male,139000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-61001,United States,18 - 24 years old,Female;Transgender,55000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 61016,United States,25 - 34 years old,Female,95000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 61018,United States,18 - 24 years old,Male,140000.0,Some college/university study without earning a degree
 61025,United States,35 - 44 years old,Male,97000.0,Some college/university study without earning a degree
@@ -9507,7 +9308,6 @@
 61501,United States,25 - 34 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 61511,United States,45 - 54 years old,Male,190000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 61516,United States,25 - 34 years old,Male,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-61520,United States,18 - 24 years old,Female;Transgender,54000.0,Some college/university study without earning a degree
 61549,United States,18 - 24 years old,Male,45000.0,Associate degree
 61551,United States,25 - 34 years old,Male,72000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 61552,United States,35 - 44 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -9543,7 +9343,6 @@
 61732,United States,45 - 54 years old,Male,66000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 61738,United States,35 - 44 years old,Male,145.0,Some college/university study without earning a degree
 61739,United States,45 - 54 years old,Male,165000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-61742,United States,18 - 24 years old,"Non-binary, genderqueer, or gender non-conforming",24000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 61747,United States,25 - 34 years old,Male,74000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 61749,United States,35 - 44 years old,Male,180000.0,Some college/university study without earning a degree
 61750,United States,35 - 44 years old,Male,85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -9715,7 +9514,6 @@
 62795,United States,25 - 34 years old,Male,160000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 62798,United States,25 - 34 years old,Male,87000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 62803,United States,25 - 34 years old,Male,55000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-62814,United States,25 - 34 years old,"Female;Non-binary, genderqueer, or gender non-conforming",4800.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 62830,United States,25 - 34 years old,Male,75500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 62832,United States,25 - 34 years old,Female,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 62840,United States,25 - 34 years old,Male,91000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -9811,7 +9609,6 @@
 63435,United States,18 - 24 years old,Female,65000.0,Associate degree
 63441,United States,18 - 24 years old,Male,102000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 63446,United States,25 - 34 years old,Male,525000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-63464,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",107200.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 63465,United States,25 - 34 years old,Female,205000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 63478,United States,25 - 34 years old,Male,150000.0,Some college/university study without earning a degree
 63484,United States,45 - 54 years old,Male,150000.0,Some college/university study without earning a degree
@@ -9825,14 +9622,12 @@
 63525,United States,25 - 34 years old,Male,85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 63535,United States,25 - 34 years old,Female,11000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 63536,United States,35 - 44 years old,Male,140000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-63562,United States,18 - 24 years old,Male;Transgender,57200.0,Some college/university study without earning a degree
 63563,United States,25 - 34 years old,Male,60000.0,Some college/university study without earning a degree
 63569,United States,25 - 34 years old,Male,140000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 63582,United States,55 - 64 years old,Male,105000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 63588,United States,35 - 44 years old,Male,122000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 63592,United States,18 - 24 years old,Male,103000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 63598,United States,35 - 44 years old,Male,75000.0,Some college/university study without earning a degree
-63602,United States,35 - 44 years old,"Non-binary, genderqueer, or gender non-conforming",90000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 63604,United States,25 - 34 years old,Male,104000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 63613,United States,18 - 24 years old,Male,80000.0,Some college/university study without earning a degree
 63624,United States,25 - 34 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -9945,7 +9740,6 @@
 64304,United States,25 - 34 years old,Male,85000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 64309,United States,35 - 44 years old,Male,57348.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 64317,United States,35 - 44 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-64318,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",112320.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 64323,United States,45 - 54 years old,Male,94430.0,Some college/university study without earning a degree
 64344,United States,25 - 34 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 64346,United States,25 - 34 years old,Male,80000.0,Associate degree
@@ -9971,7 +9765,6 @@
 64491,United States,35 - 44 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 64497,United States,25 - 34 years old,Male,115.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 64508,United States,25 - 34 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-64519,United States,55 - 64 years old,Female;Transgender,150000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 64527,United States,45 - 54 years old,Male,79000.0,Associate degree
 64529,United States,35 - 44 years old,Male,150000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 64540,United States,25 - 34 years old,Male,90000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -10095,7 +9888,6 @@
 65274,United States,35 - 44 years old,Male,88000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 65276,United States,35 - 44 years old,Male,115000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 65283,United States,35 - 44 years old,Male,180000.0,Some college/university study without earning a degree
-65284,United States,25 - 34 years old,"Female;Non-binary, genderqueer, or gender non-conforming",125000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 65290,United States,25 - 34 years old,Male,65000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 65293,United States,35 - 44 years old,Male,125000.0,Some college/university study without earning a degree
 65294,United States,45 - 54 years old,Male,154000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -10108,10 +9900,8 @@
 65329,United States,25 - 34 years old,Male,110000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 65342,United States,25 - 34 years old,Male,148500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 65350,United States,25 - 34 years old,Male,85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-65355,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",160000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 65360,United States,25 - 34 years old,Male,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 65370,United States,25 - 34 years old,Male,95688.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-65372,United States,18 - 24 years old,Female;Transgender,66000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 65374,United States,35 - 44 years old,Male,80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 65376,United States,18 - 24 years old,Male,74000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 65386,United States,35 - 44 years old,Male,125000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -10181,14 +9971,12 @@
 65790,United States,55 - 64 years old,Male,125000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 65800,United States,25 - 34 years old,Male,78000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 65803,United States,25 - 34 years old,Male,117000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-65808,United States,25 - 34 years old,Male;Transgender,90000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 65818,United States,18 - 24 years old,Male,60000.0,Some college/university study without earning a degree
 65831,United States,25 - 34 years old,Male,125000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 65836,United States,25 - 34 years old,Male,180000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 65841,United States,25 - 34 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 65857,United States,45 - 54 years old,Male,115000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 65871,United States,25 - 34 years old,Female,65000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-65885,United States,18 - 24 years old,"Non-binary, genderqueer, or gender non-conforming",180.0,Some college/university study without earning a degree
 65892,United States,25 - 34 years old,Male,65100.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 65893,United States,18 - 24 years old,Male,95000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 65894,United States,35 - 44 years old,Male,112000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -10206,11 +9994,9 @@
 65968,United States,35 - 44 years old,Male,120000.0,Some college/university study without earning a degree
 65974,United States,25 - 34 years old,Male,96000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 65979,United States,45 - 54 years old,Male,125000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-65989,United States,25 - 34 years old,Female;Transgender,82000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 65991,United States,45 - 54 years old,Male,115000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 66025,United States,45 - 54 years old,Male,97200.0,Some college/university study without earning a degree
 66027,United States,25 - 34 years old,Male,110000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-66028,United States,45 - 54 years old,Male;Transgender,107000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 66034,United States,25 - 34 years old,Female,30000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 66041,United States,35 - 44 years old,Male,89000.0,Some college/university study without earning a degree
 66044,United States,25 - 34 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -10315,7 +10101,6 @@
 66678,United States,25 - 34 years old,Male,82500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 66679,United States,35 - 44 years old,Male,135000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 66683,United States,25 - 34 years old,Male,105000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-66696,United States,35 - 44 years old,Female;Transgender,135000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 66697,United States,18 - 24 years old,Male,103000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 66703,United States,18 - 24 years old,Male,255.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 66706,United States,45 - 54 years old,Male,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -10339,7 +10124,6 @@
 66822,United States,45 - 54 years old,Female,50000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 66831,United States,18 - 24 years old,Female,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 66840,United States,18 - 24 years old,Male,720000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-66893,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",200000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 66894,United States,25 - 34 years old,Male,77400.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 66895,United States,35 - 44 years old,Male,84000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 66897,United States,25 - 34 years old,Male,95000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -10438,11 +10222,9 @@
 67492,United States,25 - 34 years old,Male,61000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 67509,United States,25 - 34 years old,Male,84000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 67510,United States,25 - 34 years old,Male,65000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-67511,United States,25 - 34 years old,Female;Transgender,60000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 67515,United States,55 - 64 years old,Male,135000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 67518,United States,45 - 54 years old,Male,101000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 67538,United States,25 - 34 years old,Female,60000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-67540,United States,45 - 54 years old,"Female;Non-binary, genderqueer, or gender non-conforming",113000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 67559,United States,25 - 34 years old,Male,122000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 67562,United States,45 - 54 years old,Male,105000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 67565,United States,25 - 34 years old,Male,155792.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -10503,7 +10285,6 @@
 67945,United States,35 - 44 years old,Male,90000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 67949,United States,25 - 34 years old,Male,41000.0,Some college/university study without earning a degree
 67950,United States,18 - 24 years old,Male,68000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-67958,United States,25 - 34 years old,Male;Transgender,76000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 67970,United States,25 - 34 years old,Female,137000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 67971,United States,35 - 44 years old,Male,90000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 67983,United States,55 - 64 years old,Male,150000.0,Some college/university study without earning a degree
@@ -10513,7 +10294,6 @@
 68015,United States,25 - 34 years old,Male,65000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 68024,United States,25 - 34 years old,Female,112000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 68027,United States,25 - 34 years old,Male,65000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-68035,United States,35 - 44 years old,"Non-binary, genderqueer, or gender non-conforming",132000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 68036,United States,25 - 34 years old,Male,70000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 68057,United States,25 - 34 years old,Female,84000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 68070,United States,25 - 34 years old,Male,150000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -10578,7 +10358,6 @@
 68459,United States,18 - 24 years old,Female,85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 68462,United States,45 - 54 years old,Male,100000.0,Some college/university study without earning a degree
 68474,United States,25 - 34 years old,Male,135000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-68487,United States,35 - 44 years old,"Non-binary, genderqueer, or gender non-conforming",150000.0,Some college/university study without earning a degree
 68489,United States,25 - 34 years old,Male,250000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 68493,United States,35 - 44 years old,Male,82500.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 68505,United States,45 - 54 years old,Male,170000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -10591,7 +10370,6 @@
 68550,United States,25 - 34 years old,Female,156000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 68557,United States,45 - 54 years old,Male,93000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 68560,United States,35 - 44 years old,Male,116000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-68578,United States,18 - 24 years old,"Transgender;Non-binary, genderqueer, or gender non-conforming",60000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 68601,United States,25 - 34 years old,Male,81000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 68616,United States,25 - 34 years old,Female,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 68637,United States,25 - 34 years old,Male,125000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -10669,7 +10447,6 @@
 69133,United States,25 - 34 years old,Male,144000.0,Some college/university study without earning a degree
 69143,United States,25 - 34 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 69160,United States,25 - 34 years old,Male,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-69161,United States,25 - 34 years old,Female;Transgender,185000.0,Some college/university study without earning a degree
 69164,United States,25 - 34 years old,Male,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 69165,United States,35 - 44 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 69166,United States,45 - 54 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -10722,10 +10499,8 @@
 69455,United States,35 - 44 years old,Male,230000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 69463,United States,35 - 44 years old,Male,160000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 69470,United States,18 - 24 years old,Male,40000.0,Some college/university study without earning a degree
-69475,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 69483,United States,25 - 34 years old,Female,60000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 69489,United States,25 - 34 years old,Male,115000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-69498,United States,35 - 44 years old,"Non-binary, genderqueer, or gender non-conforming",140000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 69500,United States,25 - 34 years old,Female,85000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 69505,United States,18 - 24 years old,Male,60000.0,Associate degree
 69509,United States,18 - 24 years old,Male,65000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -10740,7 +10515,6 @@
 69559,United States,45 - 54 years old,Female,130000.0,Some college/university study without earning a degree
 69580,United States,35 - 44 years old,Male,132000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 69586,United States,25 - 34 years old,Male,135000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-69587,United States,18 - 24 years old,"Female;Non-binary, genderqueer, or gender non-conforming",80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 69604,United States,45 - 54 years old,Female,70000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 69614,United States,25 - 34 years old,Male,110000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 69615,United States,25 - 34 years old,Male,936.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -10756,10 +10530,7 @@
 69677,United States,25 - 34 years old,Male,155000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 69685,United States,25 - 34 years old,Male,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 69689,United States,18 - 24 years old,Male,72000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-69699,United States,25 - 34 years old,Female;Transgender,85000.0,Some college/university study without earning a degree
 69704,United States,35 - 44 years old,Male,105000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-69711,United States,18 - 24 years old,"Non-binary, genderqueer, or gender non-conforming",520.0,Some college/university study without earning a degree
-69726,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",115000.0,Some college/university study without earning a degree
 69728,United States,25 - 34 years old,Male,180000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 69733,United States,35 - 44 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 69793,United States,25 - 34 years old,Male,40000.0,"Professional degree (JD, MD, etc.)"
@@ -10777,7 +10548,6 @@
 69877,United States,25 - 34 years old,Male,35000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 69882,United States,18 - 24 years old,Male,41300.0,Some college/university study without earning a degree
 69890,United States,45 - 54 years old,Male,70000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
-69896,United States,25 - 34 years old,"Transgender;Non-binary, genderqueer, or gender non-conforming",250000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 69906,United States,35 - 44 years old,Male,55000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 69923,United States,35 - 44 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 69924,United States,35 - 44 years old,Male,95000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
@@ -10804,7 +10574,6 @@
 70072,United States,25 - 34 years old,Male,160000.0,Some college/university study without earning a degree
 70073,United States,35 - 44 years old,Male,105000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 70074,United States,25 - 34 years old,Male,70000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-70082,United States,55 - 64 years old,Female;Transgender,76600.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 70089,United States,25 - 34 years old,Male,108000.0,Some college/university study without earning a degree
 70090,United States,35 - 44 years old,Male,91000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 70092,United States,25 - 34 years old,Male,105000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -11026,7 +10795,6 @@
 71534,United States,55 - 64 years old,Male,78000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 71545,United States,25 - 34 years old,Female,14000.0,Some college/university study without earning a degree
 71576,United States,25 - 34 years old,Male,92000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-71577,United States,25 - 34 years old,"Female;Transgender;Non-binary, genderqueer, or gender non-conforming",16000.0,Associate degree
 71602,United States,18 - 24 years old,Male,57366.4,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 71609,United States,25 - 34 years old,Male,110000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 71611,United States,25 - 34 years old,Male,40000.0,Some college/university study without earning a degree
@@ -11046,7 +10814,6 @@
 71784,United States,18 - 24 years old,Male,55000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 71785,United States,25 - 34 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 71795,United States,55 - 64 years old,Male,150000.0,Some college/university study without earning a degree
-71803,United States,25 - 34 years old,"Female;Non-binary, genderqueer, or gender non-conforming",55000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 71804,United States,35 - 44 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 71814,United States,25 - 34 years old,Male,180000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 71819,United States,25 - 34 years old,Male,40000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -11059,7 +10826,6 @@
 71930,United States,35 - 44 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 71934,United States,25 - 34 years old,Male,124800.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 71936,United States,25 - 34 years old,Male,104000.0,Some college/university study without earning a degree
-71938,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",140000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 71955,United States,25 - 34 years old,Male,96000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 71959,United States,18 - 24 years old,Male,12000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 71969,United States,25 - 34 years old,Male,115000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -11097,7 +10863,6 @@
 72325,United States,35 - 44 years old,Male,140000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 72339,United States,35 - 44 years old,Male,1500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 72341,United States,25 - 34 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-72372,United States,Under 18 years old,"Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming",0.0,Primary/elementary school
 72373,United States,35 - 44 years old,Male,125000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 72375,United States,25 - 34 years old,Female,36000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 72407,United States,25 - 34 years old,Male,130000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -11147,7 +10912,6 @@
 72887,United States,35 - 44 years old,Female,98000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 72901,United States,35 - 44 years old,Male,0.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 72911,United States,35 - 44 years old,Male,165000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-72917,United States,35 - 44 years old,"Non-binary, genderqueer, or gender non-conforming",150.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 72922,United States,35 - 44 years old,Male,1500.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 72929,United States,25 - 34 years old,Male,160000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 72932,United States,35 - 44 years old,Male,90000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -11192,7 +10956,6 @@
 73341,United States,18 - 24 years old,Male,7000.0,Some college/university study without earning a degree
 73351,United States,25 - 34 years old,Male,240000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 73358,United States,25 - 34 years old,Male,56000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-73365,United States,18 - 24 years old,"Non-binary, genderqueer, or gender non-conforming",4000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 73385,United States,25 - 34 years old,Male,38000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 73387,United States,35 - 44 years old,Male,5000.0,Some college/university study without earning a degree
 73422,United States,45 - 54 years old,Male,270000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -11203,7 +10966,6 @@
 73487,United States,35 - 44 years old,Male,180000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 73491,United States,45 - 54 years old,Male,23000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 73498,United States,18 - 24 years old,Male,250000.0,Some college/university study without earning a degree
-73499,United States,25 - 34 years old,Transgender,25000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 73500,United States,25 - 34 years old,Female,37000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 73515,United States,45 - 54 years old,Male,240000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 73518,United States,45 - 54 years old,Male,200000.0,Associate degree
@@ -11260,7 +11022,6 @@
 74096,United States,45 - 54 years old,Male,300000.0,Associate degree
 74108,United States,25 - 34 years old,Male,92000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 74114,United States,18 - 24 years old,Male,3000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-74115,United States,35 - 44 years old,"Male;Non-binary, genderqueer, or gender non-conforming",16000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 74133,United States,35 - 44 years old,Male,80000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 74138,United States,35 - 44 years old,Male,200000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 74143,United States,25 - 34 years old,Male,55000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -11290,7 +11051,6 @@
 74499,United States,25 - 34 years old,Male,115000.0,Some college/university study without earning a degree
 74500,United States,25 - 34 years old,Male,1600.0,Associate degree
 74512,United States,25 - 34 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-74532,United States,18 - 24 years old,Female;Transgender,120.0,Some college/university study without earning a degree
 74547,United States,25 - 34 years old,Male,46620.0,Some college/university study without earning a degree
 74549,United States,35 - 44 years old,Male,250000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 74553,United States,25 - 34 years old,Male,30000.0,Some college/university study without earning a degree
@@ -11313,7 +11073,6 @@
 74724,United States,25 - 34 years old,Male,700.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 74728,United States,18 - 24 years old,Male,60000.0,Associate degree
 74729,United States,45 - 54 years old,Male,120000.0,Some college/university study without earning a degree
-74757,United States,18 - 24 years old,"Non-binary, genderqueer, or gender non-conforming",2700.0,Some college/university study without earning a degree
 74762,United States,35 - 44 years old,Male,100000.0,Some college/university study without earning a degree
 74769,United States,35 - 44 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 74774,United States,45 - 54 years old,Male,7000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
@@ -11329,7 +11088,6 @@
 74903,United States,45 - 54 years old,Male,198000.0,Some college/university study without earning a degree
 74912,United States,35 - 44 years old,Male,100000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 74923,United States,25 - 34 years old,Male,110000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-74956,United States,45 - 54 years old,Female;Transgender,108000.0,Some college/university study without earning a degree
 74983,United States,35 - 44 years old,Male,2000.0,Some college/university study without earning a degree
 74985,United States,18 - 24 years old,Male,330.0,Some college/university study without earning a degree
 75004,United States,55 - 64 years old,Male,300000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -11368,11 +11126,9 @@
 75339,United States,25 - 34 years old,Male,1200000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 75346,United States,55 - 64 years old,Female,55000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 75373,United States,18 - 24 years old,Male,40000.0,Some college/university study without earning a degree
-75385,United States,65 years or older,"Non-binary, genderqueer, or gender non-conforming",130000.0,I never completed any formal education
 75390,United States,25 - 34 years old,Female,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 75426,United States,18 - 24 years old,Male,12000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 75436,United States,45 - 54 years old,Male,20000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
-75443,United States,25 - 34 years old,"Non-binary, genderqueer, or gender non-conforming",1000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 75467,United States,65 years or older,Male,120000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 75470,United States,35 - 44 years old,Male,105000.0,Some college/university study without earning a degree
 75474,United States,35 - 44 years old,Female,182400.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -11402,9 +11158,7 @@
 75772,United States,45 - 54 years old,Male,120000.0,Some college/university study without earning a degree
 75801,United States,25 - 34 years old,Male,10000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 75810,United States,25 - 34 years old,Male,69000.0,Associate degree
-75827,United States,35 - 44 years old,"Female;Non-binary, genderqueer, or gender non-conforming",2800.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 75829,United States,45 - 54 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-75839,United States,25 - 34 years old,Transgender,2200.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 75848,United States,45 - 54 years old,Male,10000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 75854,United States,25 - 34 years old,Male,90000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 75866,United States,25 - 34 years old,Male,0.0,Associate degree
@@ -11433,7 +11187,6 @@
 76142,United States,25 - 34 years old,Female,50000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 76145,United States,45 - 54 years old,Male,3000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 76152,United States,55 - 64 years old,Male,0.0,Some college/university study without earning a degree
-76153,United States,25 - 34 years old,Female;Transgender,102000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 76169,United States,18 - 24 years old,Male,115000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 76172,United States,25 - 34 years old,Male,180000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 76176,United States,35 - 44 years old,Male,135000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -11441,7 +11194,6 @@
 76215,United States,25 - 34 years old,Male,100000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 76222,United States,35 - 44 years old,Male,57500.0,Some college/university study without earning a degree
 76245,United States,55 - 64 years old,Male,104000.0,Some college/university study without earning a degree
-76248,United States,25 - 34 years old,Female;Transgender,80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 76254,United States,45 - 54 years old,Male,143000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 76262,United States,18 - 24 years old,Male,800.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 76268,United States,35 - 44 years old,Male,15000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -11523,7 +11275,6 @@
 77178,United States,35 - 44 years old,Male,140000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 77180,United States,25 - 34 years old,Male,50000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 77194,United States,35 - 44 years old,Male,300000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-77232,United States,25 - 34 years old,Transgender,0.0,Some college/university study without earning a degree
 77233,United States,25 - 34 years old,Male,55000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 77236,United States,25 - 34 years old,Male,83000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 77251,United States,25 - 34 years old,Male,180000.0,Some college/university study without earning a degree
@@ -11553,7 +11304,6 @@
 77518,United States,55 - 64 years old,Male,85000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 77522,United States,35 - 44 years old,Male,58000.0,Some college/university study without earning a degree
 77533,United States,45 - 54 years old,Male,4000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-77539,United States,25 - 34 years old,"Female;Non-binary, genderqueer, or gender non-conforming",1353.0,Some college/university study without earning a degree
 77544,United States,25 - 34 years old,Male,65000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 77552,United States,35 - 44 years old,Male,100000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 77577,United States,18 - 24 years old,Male,50000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -11587,7 +11337,6 @@
 77849,United States,25 - 34 years old,Male,60000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 77870,United States,45 - 54 years old,Male,96000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 77890,United States,35 - 44 years old,Male,125000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-77891,United States,18 - 24 years old,"Transgender;Non-binary, genderqueer, or gender non-conforming",24000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 77897,United States,45 - 54 years old,Male,120000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 77900,United States,45 - 54 years old,Male,102000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 77903,United States,18 - 24 years old,Male,80000.0,Some college/university study without earning a degree
@@ -11599,7 +11348,6 @@
 78022,United States,35 - 44 years old,Male,125000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 78029,United States,35 - 44 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 78047,United States,25 - 34 years old,Male,120000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-78048,United States,25 - 34 years old,Female;Transgender,64000.0,Associate degree
 78061,United States,45 - 54 years old,Male,190000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 78076,United States,25 - 34 years old,Male,100000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 78077,United States,35 - 44 years old,Male,175000.0,"Professional degree (JD, MD, etc.)"
@@ -11718,7 +11466,6 @@
 79335,United States,45 - 54 years old,Male,115000.0,Some college/university study without earning a degree
 79337,United States,45 - 54 years old,Female,104000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 79342,United States,45 - 54 years old,Male,120000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-79344,United States,35 - 44 years old,"Non-binary, genderqueer, or gender non-conforming",9.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 79346,United States,45 - 54 years old,Male,150000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 79347,United States,45 - 54 years old,Male,75000.0,Some college/university study without earning a degree
 79367,United States,25 - 34 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -11741,7 +11488,6 @@
 79501,United States,25 - 34 years old,Male,80000.0,Some college/university study without earning a degree
 79517,United States,18 - 24 years old,Male,50000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 79526,United States,35 - 44 years old,Male,180000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-79529,United States,18 - 24 years old,"Male;Non-binary, genderqueer, or gender non-conforming",31200.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 79540,United States,18 - 24 years old,Male,15000.0,Some college/university study without earning a degree
 79549,United States,45 - 54 years old,Male,75000.0,Some college/university study without earning a degree
 79557,United States,35 - 44 years old,Male,82000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -11853,7 +11599,6 @@
 80527,United States,55 - 64 years old,Male,28000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 80528,United States,18 - 24 years old,Male,0.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 80599,United States,Under 18 years old,Male,0.0,Primary/elementary school
-80674,United States,18 - 24 years old,"Female;Transgender;Non-binary, genderqueer, or gender non-conforming",0.0,Some college/university study without earning a degree
 80680,United States,35 - 44 years old,Male,0.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 80689,United States,25 - 34 years old,Male,8000.0,I never completed any formal education
 80699,United States,25 - 34 years old,Male,60000.0,Associate degree
@@ -11872,13 +11617,11 @@
 80911,United States,Under 18 years old,Male,0.0,Primary/elementary school
 80935,United States,Under 18 years old,Male,0.0,Primary/elementary school
 80944,United States,45 - 54 years old,Male,1000000.0,Some college/university study without earning a degree
-80961,United States,35 - 44 years old,"Female;Transgender;Non-binary, genderqueer, or gender non-conforming",153000.0,Some college/university study without earning a degree
 80964,United States,18 - 24 years old,Female,81.0,Some college/university study without earning a degree
 80965,United States,35 - 44 years old,Female,0.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 80982,United States,Under 18 years old,Male,45000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 80994,United States,25 - 34 years old,Female,0.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 81038,United States,25 - 34 years old,Male,2.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
-81041,United States,Under 18 years old,Transgender,0.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 81055,United States,25 - 34 years old,Male,110000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 81069,United States,18 - 24 years old,Male,0.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 81074,United States,55 - 64 years old,Male,109000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -11895,14 +11638,12 @@
 81323,United States,Under 18 years old,Male,0.0,Primary/elementary school
 81330,United States,Under 18 years old,Male,5.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 81355,United States,Under 18 years old,Male,0.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
-81364,United States,18 - 24 years old,Female;Transgender,0.0,Some college/university study without earning a degree
 81376,United States,45 - 54 years old,Male,125000.0,Some college/university study without earning a degree
 81416,United States,18 - 24 years old,Male,1800000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 81432,United States,Under 18 years old,Male,0.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 81442,United States,55 - 64 years old,Female,82000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 81478,United States,25 - 34 years old,Male,49920.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 81496,United States,Under 18 years old,Male,0.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
-81503,United States,25 - 34 years old,"Female;Transgender;Non-binary, genderqueer, or gender non-conforming",0.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 81507,United States,25 - 34 years old,Male,86000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 81539,United States,65 years or older,Male,80000.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 81592,United States,35 - 44 years old,Male,110000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -11913,7 +11654,6 @@
 81633,United States,35 - 44 years old,Male,136000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 81634,United States,55 - 64 years old,Male,10000.0,Associate degree
 81635,United States,Under 18 years old,Male,0.0,Some college/university study without earning a degree
-81657,United States,35 - 44 years old,Male;Transgender,124000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 81676,United States,45 - 54 years old,Male,120000.0,Associate degree
 81679,United States,55 - 64 years old,Male,140000.0,Associate degree
 81686,United States,18 - 24 years old,Male,0.0,Primary/elementary school
@@ -11921,7 +11661,6 @@
 81720,United States,Under 18 years old,Male,0.0,Primary/elementary school
 81727,United States,25 - 34 years old,Male,32000.0,Some college/university study without earning a degree
 81749,United States,18 - 24 years old,Male,125000.0,Some college/university study without earning a degree
-81760,United States,25 - 34 years old,"Transgender;Non-binary, genderqueer, or gender non-conforming",0.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 81804,United States,25 - 34 years old,Female,80.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 81831,United States,45 - 54 years old,Male,0.0,Some college/university study without earning a degree
 81836,United States,25 - 34 years old,Female,54000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -12028,7 +11767,6 @@
 83898,United States,35 - 44 years old,Male,90000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 83908,United States,25 - 34 years old,Male,0.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 83941,United States,35 - 44 years old,Male,0.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-83943,United States,18 - 24 years old,Male;Transgender,0.0,Some college/university study without earning a degree
 83944,United States,25 - 34 years old,Male,20000.0,Associate degree
 83963,United States,25 - 34 years old,Male,70000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 83968,United States,35 - 44 years old,Male,80000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -12050,7 +11788,6 @@
 84284,United States,18 - 24 years old,Male,480.0,Some college/university study without earning a degree
 84309,United States,25 - 34 years old,Male,30000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 84392,United States,18 - 24 years old,Male,0.0,Some college/university study without earning a degree
-84402,United States,18 - 24 years old,Female;Transgender,0.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 84403,United States,18 - 24 years old,Male,400.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 84413,United States,18 - 24 years old,Male,108000.0,Some college/university study without earning a degree
 84419,United States,18 - 24 years old,Male,0.0,Some college/university study without earning a degree
@@ -12058,8 +11795,6 @@
 84481,United States,35 - 44 years old,Male,38000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 84486,United States,35 - 44 years old,Male,180000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 84523,United States,18 - 24 years old,Male,1000.0,Some college/university study without earning a degree
-84531,United States,Under 18 years old,Female;Transgender,5.0,Primary/elementary school
-84544,United States,25 - 34 years old,"Transgender;Non-binary, genderqueer, or gender non-conforming",101000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 84554,United States,Under 18 years old,Male,120.0,Primary/elementary school
 84562,United States,18 - 24 years old,Male,7.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 84577,United States,35 - 44 years old,Male,0.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
@@ -12111,7 +11846,6 @@
 85540,United States,35 - 44 years old,Female,0.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 85549,United States,25 - 34 years old,Female,55000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 85552,United States,35 - 44 years old,Male,110000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
-85591,United States,25 - 34 years old,Female;Transgender,0.0,Some college/university study without earning a degree
 85593,United States,18 - 24 years old,Male,0.0,Some college/university study without earning a degree
 85620,United States,25 - 34 years old,Male,48000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 85638,United States,Under 18 years old,Male,0.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
@@ -12129,7 +11863,6 @@
 85920,United States,18 - 24 years old,Male,75000.0,Some college/university study without earning a degree
 85937,United States,18 - 24 years old,Male,0.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 85947,United States,Under 18 years old,Male,0.0,Primary/elementary school
-85960,United States,55 - 64 years old,Transgender,125000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 85968,United States,18 - 24 years old,Male,200.0,Associate degree
 85997,United States,Under 18 years old,Male,0.0,Primary/elementary school
 85998,United States,35 - 44 years old,Male,130000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -12143,7 +11876,6 @@
 86093,United States,25 - 34 years old,Male,50000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 86117,United States,Under 18 years old,Male,0.0,Primary/elementary school
 86136,United States,55 - 64 years old,Male,130000.0,Some college/university study without earning a degree
-86137,United States,45 - 54 years old,"Female;Transgender;Non-binary, genderqueer, or gender non-conforming",155000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 86163,United States,Under 18 years old,Male,0.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 86179,United States,55 - 64 years old,Male,57000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 86186,United States,18 - 24 years old,Female,7000.0,Some college/university study without earning a degree
@@ -12171,12 +11903,10 @@
 86626,United States,18 - 24 years old,Male,0.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 86665,United States,35 - 44 years old,Male,75000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 86683,United States,18 - 24 years old,Male,0.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
-86694,United States,25 - 34 years old,"Male;Non-binary, genderqueer, or gender non-conforming",0.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 86704,United States,25 - 34 years old,Female,1000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 86710,United States,65 years or older,Male,0.0,"Other doctoral degree (Ph.D, Ed.D., etc.)"
 86748,United States,Under 18 years old,Male,0.0,Primary/elementary school
 86782,United States,25 - 34 years old,Female,0.0,Some college/university study without earning a degree
-86783,United States,35 - 44 years old,"Female;Non-binary, genderqueer, or gender non-conforming",0.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 86799,United States,25 - 34 years old,Male,50000.0,Some college/university study without earning a degree
 86807,United States,Under 18 years old,Male,0.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 86855,United States,25 - 34 years old,Male,0.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -12198,7 +11928,6 @@
 87070,United States,18 - 24 years old,Male,60000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 87090,United States,18 - 24 years old,Male,0.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 87126,United States,35 - 44 years old,Female,75000.0,Some college/university study without earning a degree
-87145,United States,45 - 54 years old,Female;Transgender,50000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 87159,United States,18 - 24 years old,Male,105000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 87165,United States,25 - 34 years old,Male,85000.0,Some college/university study without earning a degree
 87174,United States,45 - 54 years old,Male,76000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
@@ -12213,13 +11942,10 @@
 87374,United States,18 - 24 years old,Male,0.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 87382,United States,Under 18 years old,Male,0.0,Primary/elementary school
 87397,United States,18 - 24 years old,Male,0.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
-87411,United States,18 - 24 years old,"Non-binary, genderqueer, or gender non-conforming",12000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
-87412,United States,18 - 24 years old,"Non-binary, genderqueer, or gender non-conforming",33.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 87436,United States,18 - 24 years old,Male,33.0,Some college/university study without earning a degree
 87455,United States,18 - 24 years old,Male,100.0,Some college/university study without earning a degree
 87486,United States,25 - 34 years old,Female,55000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
 87491,United States,25 - 34 years old,Male,30000.0,"Master’s degree (MA, MS, M.Eng., MBA, etc.)"
-87553,United States,Under 18 years old,Female;Transgender,0.0,Primary/elementary school
 87589,United States,18 - 24 years old,Male,0.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 87608,United States,18 - 24 years old,Male,0.0,Some college/university study without earning a degree
 87637,United States,18 - 24 years old,Female,0.0,Some college/university study without earning a degree
@@ -12231,10 +11957,8 @@
 87857,United States,18 - 24 years old,Male,0.0,Some college/university study without earning a degree
 87859,United States,18 - 24 years old,Male,6000.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 87923,United States,Under 18 years old,Male,600.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
-87950,United States,Under 18 years old,"Female;Male;Transgender;Non-binary, genderqueer, or gender non-conforming",0.0,Primary/elementary school
 87957,United States,25 - 34 years old,Male,0.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 88018,United States,18 - 24 years old,Male,0.0,Some college/university study without earning a degree
-88033,United States,Under 18 years old,"Non-binary, genderqueer, or gender non-conforming",0.0,Primary/elementary school
 88078,United States,18 - 24 years old,Male,0.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 88091,United States,18 - 24 years old,Male,0.0,Some college/university study without earning a degree
 88099,United States,Under 18 years old,Male,0.0,Primary/elementary school
@@ -12245,7 +11969,6 @@
 88248,United States,18 - 24 years old,Male,0.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 88287,United States,18 - 24 years old,Male,4000.0,Primary/elementary school
 88298,United States,18 - 24 years old,Male,0.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
-88304,United States,18 - 24 years old,Female;Transgender,0.0,Some college/university study without earning a degree
 88331,United States,25 - 34 years old,Female,30000.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"
 88345,United States,18 - 24 years old,Male,0.0,Some college/university study without earning a degree
 88387,United States,18 - 24 years old,Male,140.0,Some college/university study without earning a degree
@@ -12293,7 +12016,6 @@
 89547,United States,Under 18 years old,Male,0.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 89606,United States,18 - 24 years old,Male,0.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 89623,United States,18 - 24 years old,Male,4000.0,Some college/university study without earning a degree
-89633,United States,18 - 24 years old,"Non-binary, genderqueer, or gender non-conforming",840.0,Some college/university study without earning a degree
 89637,United States,18 - 24 years old,Male,4000.0,Some college/university study without earning a degree
 89655,United States,Under 18 years old,Male,80.0,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)"
 89661,United States,18 - 24 years old,Male,28200.0,"Bachelor’s degree (BA, BS, B.Eng., etc.)"

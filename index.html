@@ -39,54 +39,32 @@
           <div id="companychart"></div>
         </div>
     </div>
-    <div class="col-md-6">
+    <div class="col-md-4">
         <div class="well">
           <h4>Median Salary for Each Age Range</h4>
           <div id="salaryagechart"></div>
         </div>
     </div>
-    <div class="col-md-6">
+    <div class="col-md-4">
         <div class="well">
           <h4>Median Salary for Each Gender</h4>
           <div id="salarygenderchart"></div>
         </div>
     </div>
+    <div class="col-md-4">
+        <div class="well">
+          <h4>Median Salary for Each Education Level</h4>
+          <div id="salaryeduchart"></div>
+        </div>
+    </div>
 
     <!-- The div that holds graph 1, a bar chart with a drop down box -->
       <div class="well">
-        <h4>Information to Compare (city level data)</h4>
+        <h4>Please select your information to get an estimate of your salary</h4>
         <select id="selDataset" onchange="getData(this.value)">
-          <option value="defaultvalue">Please select the information you are interested in.</option>
-          <option value="airx">Relative air quality</option>
-          <option value="rskcyhunx">Total hurricane risk</option>
-          <option value="rskcyquak">Total earthquake risk</option>
-          <option value="rskcyrisk">Total risk from various storm types (hurricanes, tornadoes, etc)</option>
-          <option value="airportdist">Distance to closest airport with more than 10,000 boardings annually</option>
-          <option value="ancestamer">Number of people living within the area of American descent</option>
-          <option value="ancestamind">Number of people living within the area of Native American descent</option>
-          <option value="ancestasian">Number of people living within the area of Asian descent</option>
-          <option value="ancesthisp">Number of people living within the area of Hispanic descent</option>
-          <option value="avgsaleprice">Average residential home sales price for four recent quarters</option>
-          <option value="avg_prop_tax_year_count">Average property tax amount for the area</option>
-          <option value="crmcytotc">The combined risks of crime (rape, murder, assault, robbery, vehicle theft).</option>
-          <option value="daypop">The daytime population in this area</option>
-          <option value="eduhsch">Number of people who are high school graduates.</option>
-          <option value="edubach">Number of people who achieved a Bachelor's Degree</option>
-          <option value="expfoodbev">The costs associated with food at home, food away from home; restaurants, etc.</option>
-          <option value="exphealth">The costs associated with health care including: health insurance, medicare payments, etc.</option>
-          <option value="exphh">The costs associated with owned dwellings; maintenance, homeowners insurance, etc.</option>
-          <option value="exphhops">The costs associated with household operations; in home child care, day care, etc.</option>
-          <option value="exptotal">Average annual expenditures for food, beverages, housing, insurance, education, etc.</option>
-          <option value="exptransport">The costs associated with vehicle purchases, gasoline, repair, etc.</option>
-          <option value="three_bedindex">Localized index to show expected local pricing variations for a three bedroom dwelling</option>
-          <option value="three_bed_county">Gross rent estimate for a three bedroom apartment</option>
-          <option value="idxexptotal">The average of the total expenses shown within an area per household</option>
-          <option value="inccypcap">Average individual income of people in the area.</option>
-          <option value="inccyavehh">Average income of households in the area</option>
-          <option value="medsaleprice">Median residential home sales price for four recent quarters</option>
-          <option value="precipann">Combined average annual rainfall and snowfall in inches</option>
-          <option value="salestaxrate">The reported sales tax rate for the area. Additional local taxes may apply</option>
-          <option value="trwave">The average commute time of workers living in this area</option>
+          <option value="defaultvalue">Please select your gender.</option>
+          <option value="airx">Female</option>
+          <option value="rskcyhunx">Male</option>
         </select>
       </div>
 
@@ -111,6 +89,7 @@
   </div>
 
   <script type="text/javascript" src="static/js/plotly-figures1.js"></script>
+  <script type="text/javascript" src="static/js/plotly-figures2.js"></script>
 
   <!-- Footer-->
   <div id="footer">
