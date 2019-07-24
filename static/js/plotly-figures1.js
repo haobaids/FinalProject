@@ -162,12 +162,12 @@ function initgendersalarychart() {
         // console.log("gender", data['Gender']);
         // console.log("salary", data['Salary']);
 
-        console.log("getting role_wanted_data.json");
+        // console.log("getting role_wanted_data.json");
         const gender = []
         const salary = [];
         
         for (let i = 0; i <  Object.keys(data['Gender']).length; i++) {
-            console.log("loop", i, data['Gender'][i])
+            // console.log("loop", i, data['Gender'][i])
             gender.push(data['Gender'][i]);
             salary.push(data['Salary'][i]);
         }
@@ -205,12 +205,12 @@ function initedusalarychart() {
         // console.log("formalEducation", data['FormalEducation']);
         // console.log("salary", data['Salary']);
 
-        console.log("getting role_wanted_data.json");
+        // console.log("getting role_wanted_data.json");
         const formalEducation = []
         const salary = [];
         
         for (let i = 0; i <  Object.keys(data['FormalEducation']).length; i++) {
-            console.log("loop", i, data['FormalEducation'][i])
+            // console.log("loop", i, data['FormalEducation'][i])
             formalEducation.push(data['FormalEducation'][i]);
             salary.push(data['Salary'][i]);
         }

@@ -60,32 +60,43 @@
 
     <!-- The div that holds graph 1, a bar chart with a drop down box -->
       <div class="well">
-        <h4>Please select your information to get an estimate of your salary</h4>
-        <select id="selDataset" onchange="getData(this.value)">
+        <h4>Please select your information to get an estimate of your potential salary</h4>
+        <select id="selgender" onchange="getGenderData(this.value)">
           <option value="defaultvalue">Please select your gender.</option>
-          <option value="airx">Female</option>
-          <option value="rskcyhunx">Male</option>
+          <option value="0">Female</option>
+          <option value="1">Male</option>
+        </select>
+
+        <select id="selage" onchange="getAgeData(this.value)">
+          <option value="defaultvalue">Please select your age range.</option>
+          <option value="0">18 - 24 years old</option>
+          <option value="1">25 - 34 years old</option>
+          <option value="2">35 - 44 years old</option>
+          <option value="3">45 - 54 years old</option>
+          <option value="4">55 - 64 years old</option>
+          <option value="5">65 years or older</option>
+          <option value="6">Under 18 years old</option>
+        </select>
+
+        <select id="seledu" onchange="getEduData(this.value)">
+          <option value="defaultvalue">Please select your education level.</option>
+          <option value="0">Associate degree</option>
+          <option value="1">Bachelor degree (BA, BS, B.Eng., etc.)</option>
+          <option value="2">I never completed any formal education</option>
+          <option value="3">Master degree (MA, MS, M.Eng., MBA, etc.)</option>
+          <option value="4">Other doctoral degree (Ph.D, Ed.D., etc.)</option>
+          <option value="5">Primary/elementary school</option>
+          <option value="6">Professional degree (JD, MD, etc.)</option>
+          <option value="7">Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)</option>
+          <option value="8">Some college/university study without earning a degree</option>
         </select>
       </div>
-
-
-
-      <div id="barchart"></div>
-    </div>
-    <!-- The div that holds graph 2, a bubble plot with a drop down box -->
-    <div class="col-md-6">
-      <div class="well">
-        <h4>City to Check (zip code level data)</h4>
-        <select id="selCityname" onchange="getcityData(this.value)">
-          <!-- <option value="defaultvalue">Please select a city</option> -->
-          <option value="city1">Dallas, TX</option>
-          <option value="city2">Jackson, MS</option>
-          <option value="city3">San Francisco, CA</option>
-        </select>
-        <p>The city level data is imputed for each zip code of the city for 'Relative air quality', 'Total hurricane/earthquake risk' and 'Total risk from various storm types'. </p>
-    </div>
-
-    <div id="bubble"></div>
+      <div class="col-md-12">
+          <div class="well">
+            <h4>Your Estimated Salary Compared to the Median Salary in the Data Science Job Markte</h4>
+            <div id="salaryestbarchart"></div>
+          </div>
+      </div>
   </div>
 
   <script type="text/javascript" src="static/js/plotly-figures1.js"></script>
